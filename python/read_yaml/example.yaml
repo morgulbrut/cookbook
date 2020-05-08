@@ -1,0 +1,19 @@
+uCs:
+  - name: msp430
+    hexfile: ./bin/hex/msp430.hex
+    flasher:
+      path: ./bin/tools/msp430flasher
+      args:
+        - foo
+        - bar
+        - baz
+        - -spam
+  - name: nrf52
+    hexfile: ./bin/hex/nrf52.hex
+    flasher:
+      path: ./bin/tools/nrftool
+      args:
+        - foo
+        - bar
+        - baz
+        - -spam
