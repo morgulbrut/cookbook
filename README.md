@@ -4,16 +4,17 @@ My personal cookbook for different stuff
 
 ## linux
 
-## bash
-### Oneliners
+ * [ ] How to bind USB device under a static name? **bind_usb.md**
 
-* https://github.com/morgulbrut/cookbook/blob/master/bash/oneliner.md
+## bash
+
+ * [ ] Oneliners: **onliner.md**
 
 
 ## python
 ### examples
 
-* reading a yaml file using pyaml: **read_yaml/main.py**
+* [x] reading a yaml file using pyaml: **read_yaml/main.py**
 
 ## go
 
