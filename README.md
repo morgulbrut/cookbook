@@ -15,6 +15,8 @@ My personal cookbook for different stuff
 ### examples
 
 * [x] reading a yaml file using pyaml: **read_yaml/main.py**
+* [x] simple flask app: **simple_flask_app**
+* [x] is_even port from node.js to python also using pytest: **is_even**
 
 ## go
 
