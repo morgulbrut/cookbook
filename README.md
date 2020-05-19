@@ -16,7 +16,6 @@ My personal cookbook for different stuff
 
 * [x] reading a yaml file using pyaml: **read_yaml/main.py**
 * [x] simple flask app: **simple_flask_app**
-* [x] is_even port from node.js to python also using pytest: **is_even**
-
-## go
-
+* [x] is_even port from node.js to python, also using pytest: **is_even**
+* [x] some pymongo examples **pymongo/write_test.py**,  **pymongo/read_test.py**,  **pymongo/drop_test.py** which manipulate a db named test.
+* [x] **pymongo/list.py** dumps a whole mongoDB instance.
