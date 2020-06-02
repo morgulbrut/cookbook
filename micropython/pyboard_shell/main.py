@@ -7,6 +7,11 @@ from array import array
 import math
 import sys
 
+CH1 = "Y1"
+CH2 = "Y2"
+CH3 = "Y3"
+CH4 = "Y4"
+
 
 def CAN_test():
     can = CAN(1, CAN.LOOPBACK)
@@ -27,44 +32,95 @@ def set_led(led, value):
             l.off()
         else:
             l.on()
-        print("set led{} to {}".format(led, value))
+        return "set led{} to {}".format(led, value)
     except:
-        print("error set_led")
+        return "error set_led"
 
 
 def set_pin(pin, value):
     try:
         p_out = Pin(pin, Pin.OUT_PP)
         p_out.value(value)
+        return "set pin {} to {}".format(pin, value)
     except:
-        print("error set_pin")
+        return "error set_pin"
 
 
 def get_pin(pin):
     try:
         p_in = Pin(pin, Pin.IN, Pin.PULL_DOWN)
-        print(p_in.value())
+        return "pin {} is {}".format(pin, p_in.value()
     except:
-        print("error get_pin")
+        return "error get_pin"
 
 
 def set_analog(pin, value):
     try:
-        dac = DAC(pin, bits=12)
+        dac=DAC(pin, bits=12)
         dac.write(value)
+        return "set pin {} to {}".format(pin, value)
     except:
-        print("error set_analog")
+        return "error set_analog"
 
 
 def read_analog(pin):
     try:
-        adc = ADC(Pin(pin))
-        adc.read()
+        adc=ADC(Pin(pin))
+        return "pin {} is {}".format(pin, adc.read())
     except:
-        print("error read_analog")
+        return "error read_analog"
 
 
 def sine(pin, freq):
-    buf = array('H', 2048 + int(2047 * math.sin(2 * math.pi * i / 128)) for i in range(128))
-    dac = DAC(pin, bits=12)
+    buf=array('H', 2048 + int(2047 * math.sin(2 * math.pi * i / 128)) for i in range(128))
+    dac=DAC(pin, bits=12)
     dac.write_timed(buf, freq * len(buf), mode=DAC.CIRCULAR)
+
+
+def main():
+    while 1:
+        x=input(">>> ")
+        if x == "exit":
+            break
+
+        elif "channel " in x:
+            if "CH1" in x:
+                res=set_led(1, 1)
+                res += set_led(2, 0)
+                res += set_led(3, 0)
+                res += set_led(4, 0)
+                res += set_pin(CH1, 1)
+                res += set_pin(CH2, 0)
+                res += set_pin(CH3, 0)
+                res += set_pin(CH4, 0)
+            elif "CH2" in x:
+                res=set_led(1, 0)
+                res += set_led(2, 1)
+                res += set_led(3, 0)
+                res += set_led(4, 0)
+                res += set_pin(CH1, 0)
+                res += set_pin(CH2, 1)
+                res += set_pin(CH3, 0)
+                res += set_pin(CH4, 0)
+            elif "CH3" in x:
+                res=set_led(1, 0)
+                res += set_led(2, 0)
+                res += set_led(3, 1)
+                res += set_led(4, 0)
+                res += set_pin(CH1, 0)
+                res += set_pin(CH2, 0)
+                res += set_pin(CH3, 1)
+                res += set_pin(CH4, 0)
+            elif "CH4" in x:
+                res=set_led(1, 0)
+                res += set_led(2, 0)
+                res += set_led(3, 0)
+                res += set_led(4, 1)
+                res += set_pin(CH1, 0)
+                res += set_pin(CH2, 0)
+                res += set_pin(CH3, 0)
+                res += set_pin(CH4, 1)
+            if "error" in res:
+                print("100 ERROR")
+            else:
+                print("0 OK")
