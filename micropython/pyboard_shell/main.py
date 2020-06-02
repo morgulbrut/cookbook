@@ -80,11 +80,11 @@ def sine(pin, freq):
 def main():
     while 1:
         x=input(">>> ")
-        if x == "exit":
+        if x.lower() == "exit":
             break
 
-        elif "channel " in x:
-            if "CH1" in x:
+        elif "select" in x.lower():
+            if "CH1" in x.upper():
                 res=set_led(1, 1)
                 res += set_led(2, 0)
                 res += set_led(3, 0)
