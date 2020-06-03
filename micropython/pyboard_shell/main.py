@@ -125,3 +125,7 @@ def main():
                 print("100 ERROR")
             else:
     time.sleep(0.02)
+
+
+if __name__ == "__main__":
+    main()
