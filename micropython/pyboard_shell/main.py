@@ -8,10 +8,29 @@ import math
 import sys
 import time
 
-CH1 = "Y1"
-CH2 = "Y2"
-CH3 = "Y3"
-CH4 = "Y4"
+PINS_IO = {
+    "CH1": "A13",  # red LED
+    "CH2": "A14",  # green LED
+    "CH3": "A15",  # yello LED
+    "CH4": "B4",  # blue LED
+
+    "PIN1": "A13",
+    "PIN2": "A14",
+    "PIN3": "A15",
+    "PIN4": "B4",
+}
+
+PINS_ADC = {
+    "ADC1": "X1",
+    "ADC2": "X2",
+    "ADC3": "X3",
+    "ADC4": "X4",
+}
+
+PINS_DAC = {
+    "DAC1": "X5",
+    "DAC2": "X6",
+}
 
 
 def CAN_test():
