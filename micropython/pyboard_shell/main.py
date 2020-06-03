@@ -97,6 +97,22 @@ def sine(pin, freq):
     dac.write_timed(buf, freq * len(buf), mode=DAC.CIRCULAR)
 
 
+def print_help():
+    print("===================")
+    print("        HELP       ")
+    print("===================")
+    print("Commands:")
+    print("exit             - exit the shell")
+    print("help             - showing this help")
+    print("select <CH>      - select channel CH1 to CH4, ALL or NONE")
+    print("set <PIN>        - set PIN1 to PIN4 to 1")
+    print("reset <PIN>      - reset PIN1 to PIN4 to low")
+    print("read <ADC>       - read an analog value from ADC1 to ADC4")
+    print("read <PIN>       - read 0 or 1 from PIN1 to PIN4")
+    print("write <DAC>      - write an analog value to DAC1 or DAC2")
+    print("write <PIN>      - write 0 or 1 to PIN1 to PIN4")
+
+
 def main():
     while 1:
         x=input(">>> ")
