@@ -47,6 +47,7 @@ def CAN_test():
 
 def set_pin(pin, value):
     try:
+        pin.value(value)
         return (0, "set pin: {} : {}".format(pin.name(), value))
     except:
         return (1, "set_pin")
@@ -59,9 +60,8 @@ def get_pin(pin):
         return (1, "get_pin")
 
 
-def set_analog(pin, value):
+def set_analog(dac, value):
     try:
-        dac=DAC(pin, bits=12)
         dac.write(value)
         return (0, "set dac : : {}".format(value))
     except:
@@ -76,8 +76,8 @@ def read_analog(pin):
 
 
 def sine(pin, freq):
-    buf=array('H', 2048 + int(2047 * math.sin(2 * math.pi * i / 128)) for i in range(128))
-    dac=DAC(pin, bits=12)
+    buf = array('H', 2048 + int(2047 * math.sin(2 * math.pi * i / 128)) for i in range(128))
+    dac = DAC(pin, bits=12)
     dac.write_timed(buf, freq * len(buf), mode=DAC.CIRCULAR)
 
 
@@ -197,7 +197,7 @@ def main():
 
         if err > 0:
             print("ERROR {}".format(res))
-            else:
+        else:
             print("OK {}".format(res))
     time.sleep(0.02)
 
