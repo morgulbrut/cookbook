@@ -6,6 +6,7 @@ from pyb import ADC
 from array import array
 import math
 import sys
+import time
 
 CH1 = "Y1"
 CH2 = "Y2"
@@ -123,4 +124,4 @@ def main():
             if "error" in res:
                 print("100 ERROR")
             else:
-                print("0 OK")
+    time.sleep(0.02)
