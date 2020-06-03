@@ -45,18 +45,6 @@ def CAN_test():
     print(can.recv(0))
 
 
-def set_led(led, value):
-    try:
-        l = LED(led)
-        if value == 0:
-            l.off()
-        else:
-            l.on()
-        return "set led{} to {}".format(led, value)
-    except:
-        return "error set_led"
-
-
 def set_pin(pin, value):
     try:
         return (0, "set pin: {} : {}".format(pin.name(), value))
