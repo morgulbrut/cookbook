@@ -112,50 +112,93 @@ def main():
         daco[p] = DAC(PINS_DAC[p], bits=12)
 
     while 1:
-        x=input(">>> ")
+        x = input("> ")
+        res = ""
+        err = 0
         if x.lower() == "exit":
             break
 
+        elif "help" in x.lower():
+            print_help()
+
         elif "select" in x.lower():
-            if "CH1" in x.upper():
-                res=set_led(1, 1)
-                res += set_led(2, 0)
-                res += set_led(3, 0)
-                res += set_led(4, 0)
-                res += set_pin(CH1, 1)
-                res += set_pin(CH2, 0)
-                res += set_pin(CH3, 0)
-                res += set_pin(CH4, 0)
-            elif "CH2" in x:
-                res=set_led(1, 0)
-                res += set_led(2, 1)
-                res += set_led(3, 0)
-                res += set_led(4, 0)
-                res += set_pin(CH1, 0)
-                res += set_pin(CH2, 1)
-                res += set_pin(CH3, 0)
-                res += set_pin(CH4, 0)
-            elif "CH3" in x:
-                res=set_led(1, 0)
-                res += set_led(2, 0)
-                res += set_led(3, 1)
-                res += set_led(4, 0)
-                res += set_pin(CH1, 0)
-                res += set_pin(CH2, 0)
-                res += set_pin(CH3, 1)
-                res += set_pin(CH4, 0)
-            elif "CH4" in x:
-                res=set_led(1, 0)
-                res += set_led(2, 0)
-                res += set_led(3, 0)
-                res += set_led(4, 1)
-                res += set_pin(CH1, 0)
-                res += set_pin(CH2, 0)
-                res += set_pin(CH3, 0)
-                res += set_pin(CH4, 1)
-            if "error" in res:
-                print("100 ERROR")
+            pn = x.split(' ')[1].upper()
+
+            if pn == "ALL":
+                set_pin(pnsio["CH1"], 1)
+                set_pin(pnsio["CH2"], 1)
+                set_pin(pnsio["CH3"], 1)
+                set_pin(pnsio["CH4"], 1)
+
             else:
+                set_pin(pnsio["CH1"], 0)
+                set_pin(pnsio["CH2"], 0)
+                set_pin(pnsio["CH3"], 0)
+                set_pin(pnsio["CH4"], 0)
+                if pn != "NONE":
+                    try:
+                        err, res = set_pin(pnsio[pn], 1)
+                        res = "select {}".format(pn)
+                    except:
+                        err = 1
+                        res = "invalid pin"
+
+        elif "reset" in x.lower():
+            pn = x.split(' ')[1].upper()
+            try:
+                err, res = set_pin(pnsio[pn], 0)
+            except:
+                err = 1
+                res = "invalid pin"
+
+        elif "set" in x.lower():
+            pn = x.split(' ')[1].upper()
+            try:
+                err, res = set_pin(pnsio[pn], 1)
+            except:
+                err = 1
+                res = "invalid pin"
+
+        elif "read" in x.lower():
+            pn = x.split(' ')[1].upper()
+            if "ADC" in pn:
+                try:
+                    err, res = read_analog(adci[pn])
+                except:
+                    err = 1
+                    res = "invalid pin"
+            else:
+                try:
+                    err, res = get_pin(pnsio[pn])
+                except:
+                    err = 1
+                    res = "invalid pin"
+
+        elif "write" in x.lower():
+            args = x.split(' ')
+            pn = args[1].upper()
+            val = int(args[2])
+            if "DAC" in pn:
+                try:
+                    err, res = set_analog(daco[pn], val)
+                except:
+                    err = 1
+                    res = "invalid pin"
+            else:
+                try:
+                    err, res = set_pin(pnsio[pn], val)
+                except:
+                    err = 1
+                    res = "invalid pin"
+
+        else:
+            err = 1
+            res = "unknown command"
+
+        if err > 0:
+            print("ERROR {}".format(res))
+            else:
+            print("OK {}".format(res))
     time.sleep(0.02)
 
 
