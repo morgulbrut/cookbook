@@ -110,6 +110,19 @@ def print_help():
 
 
 def main():
+
+    pnsio = {}
+    for p in PINS_IO:
+        pnsio[p] = Pin(PINS_IO[p], Pin.PULL_UP)
+
+    adci = {}
+    for p in PINS_ADC:
+        adci[p] = ADC(Pin(PINS_ADC[p]))
+
+    daco = {}
+    for p in PINS_DAC:
+        daco[p] = DAC(PINS_DAC[p], bits=12)
+
     while 1:
         x=input(">>> ")
         if x.lower() == "exit":
