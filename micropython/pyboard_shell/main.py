@@ -59,36 +59,32 @@ def set_led(led, value):
 
 def set_pin(pin, value):
     try:
-        p_out = Pin(pin, Pin.OUT_PP)
-        p_out.value(value)
-        return "set pin {} to {}".format(pin, value)
+        return (0, "set pin: {} : {}".format(pin.name(), value))
     except:
-        return "error set_pin"
+        return (1, "set_pin")
 
 
 def get_pin(pin):
     try:
-        p_in = Pin(pin, Pin.IN, Pin.PULL_DOWN)
-        return "pin {} is {}".format(pin, p_in.value()
+        return (0, "pin: {} : {}".format(pin.name(), pin.value()))
     except:
-        return "error get_pin"
+        return (1, "get_pin")
 
 
 def set_analog(pin, value):
     try:
         dac=DAC(pin, bits=12)
         dac.write(value)
-        return "set pin {} to {}".format(pin, value)
+        return (0, "set dac : : {}".format(value))
     except:
-        return "error set_analog"
+        return (1, "set_analog")
 
 
 def read_analog(pin):
     try:
-        adc=ADC(Pin(pin))
-        return "pin {} is {}".format(pin, adc.read())
+        return (0, "pin: : {}".format(pin.read()))
     except:
-        return "error read_analog"
+        return (1, "read_analog")
 
 
 def sine(pin, freq):
