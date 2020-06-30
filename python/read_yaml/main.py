@@ -1,7 +1,14 @@
 #!/usr/bin/env python3
 
-import yaml # install with pip install pyaml
-from pprint import pprint # python pretty printer
+try:
+    import yaml  # install with pip install pyaml
+except:
+    print("installing yaml")
+    from pip._internal import main as pip
+    pip(['install', '--user', 'pyaml'])
+    import yaml
+
+from pprint import pprint  # python pretty printer
 
 with open('example.yaml', 'r') as stream:
     try:
