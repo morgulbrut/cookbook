@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python3
 
 try:
@@ -25,5 +26,4 @@ for uC in settings['uCs']:
     args = " ".join(uC['flasher']['args'])
     print(tool)
     print(args)
-    print("[CMD]: {} {} {}".format(tool,args, uC['hexfile']))
-
+    print("[CMD]: {} {} {}".format(tool, args, uC['hexfile']))
