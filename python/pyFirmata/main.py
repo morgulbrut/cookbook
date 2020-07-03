@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 import pyfirmata2
-
+import time
 
 PIN = 13  # Pin 13 is used
 DELAY = 1  # 1 second delay
@@ -28,5 +28,9 @@ pin3 = board.get_pin('d:3:p')
 pin3.write(0.2)
 print(pin3.read())
 
-while True:
-    pass
+print("set up pwm on pin 13")
+pin13 = board.get_pin('d:13:o')
+pin13.write(1)
+print(pin13.read())
+
+time.sleep(10)
