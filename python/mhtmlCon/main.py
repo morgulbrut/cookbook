@@ -13,7 +13,7 @@ if __name__ == "__main__":
 
         i = 1
         for f in fields:
-            # Images
+            # extract the images
             if "Content-Type: image/jpeg" in f:
                 img_data = f.split("\n\n")[1]
                 filename = "img"+str(i)+".png"
@@ -21,11 +21,14 @@ if __name__ == "__main__":
                 with open(filename, "wb") as fh:
                     fh.write(base64.decodebytes(bytes(img_data, 'utf-8')))
 
+            # store the content a plain html
             if "Content-Location: main.htm" in f:
                 html_data = f.split("<!DOCTYPE html>")[1]
                 with open("index.html", "w") as fh:
                     fh.write(html_data)
 
+                # extract the text for the single steps and add the image
+                # write the whole stuff to a markdown
                 with open("readme.md", "w") as fh:
                     soup = BeautifulSoup(html_data, 'html.parser')
                     j = 1
