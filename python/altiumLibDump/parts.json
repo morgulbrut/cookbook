@@ -1,0 +1,2868 @@
+{
+    "5000026": {
+        "Designator": "U?",
+        "Footprints": [
+            "5000026"
+        ],
+        "Supplier 1": "5000026",
+        "Supplier Part Number 1": "Safematic"
+    },
+    "5000027": {
+        "Designator": "U?",
+        "Footprints": [
+            "5000026"
+        ],
+        "Supplier 1": "5000027",
+        "Supplier Part Number 1": "Safematic"
+    },
+    "5000029": {},
+    "5000030": {
+        "Designator": "U?",
+        "Footprints": [
+            "SO8"
+        ],
+        "Supplier 1": "Safematic",
+        "Supplier Part Number 1": "5000030",
+        "Supplier Part Number 2": "5000029"
+    },
+    "5000031": {
+        "Designator": "D?",
+        "Footprints": [
+            "LED-0603 - OR"
+        ],
+        "Supplier 1": "Safematic",
+        "Supplier Part Number 1": "5000031"
+    },
+    "5000032": {
+        "Designator": "D?",
+        "Footprints": [
+            "LED-0603 - BU"
+        ],
+        "Supplier 1": "Safematic",
+        "Supplier Part Number 1": "5000032"
+    },
+    "5000033": {
+        "Designator": "D?",
+        "Footprints": [
+            "LED-0603 - GN"
+        ],
+        "Supplier 1": "Safematic",
+        "Supplier Part Number 1": "5000033"
+    },
+    "5000034": {
+        "Designator": "D?",
+        "Footprints": [
+            "LED-0603 - RD"
+        ],
+        "Supplier 1": "Safematic",
+        "Supplier Part Number 1": "5000034"
+    },
+    "5000035": {
+        "Designator": "X?",
+        "Footprints": [
+            "25POL_DSUB_SPEZ_MALE"
+        ],
+        "Supplier 1": "Safematic",
+        "Supplier Part Number 1": "5000035"
+    },
+    "5000036": {
+        "Designator": "X?",
+        "Footprints": [
+            "25POL_DSUB_SPEZ_FEMALE"
+        ],
+        "Supplier 1": "Safematic",
+        "Supplier Part Number 1": "5000036"
+    },
+    "5000040": {},
+    "B_3035": {
+        "Designator": "BAT?",
+        "Footprints": [
+            "3035 short"
+        ],
+        "Manufacturer": "Keystone Electronics",
+        "Manufacturer Part Number": "3035",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier Part Number 1": "36-3035-ND",
+        "Supplier Part Number 2": "534-3035"
+    },
+    "C": {
+        "Designator": "C?",
+        "Footprints": [
+            "10.16mm_tht_c"
+        ]
+    },
+    "C_P": {
+        "Designator": "SB?",
+        "Footprints": [
+            "Solderjumper"
+        ]
+    },
+    "C_P_HVK-35V271MH10E-R2": {},
+    "D": {
+        "Designator": "D?",
+        "Footprints": [
+            "MiniMelf_SOD-80"
+        ]
+    },
+    "D_ASMB-TTF0-0A20B": {
+        "Designator": "D?",
+        "Footprints": [
+            "ASMB-TTF"
+        ],
+        "Manufacturer": "Broadcom Avago",
+        "Manufacturer Part Number": "ASMB-TTF0-0A20B",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "516-3908-1-ND",
+        "Supplier Part Number 2": "630-ASMB-TTF0-0A20B",
+        "Supplier Part Number 3": "2858361"
+    },
+    "D_BAS70-04": {
+        "Designator": "X?",
+        "Footprints": [
+            "236-410"
+        ],
+        "Manufacturer": "WAGO",
+        "Manufacturer Part Number": "236-410",
+        "Supplier 1": "Future Electronics",
+        "Supplier 2": "Digi-Key",
+        "Supplier 3": "Mouser",
+        "Supplier Part Number 1": "5010915",
+        "Supplier Part Number 2": "BAS7004E6327HTSA1CT-ND",
+        "Supplier Part Number 3": "726-BAS70-04E6327"
+    },
+    "D_BAS70-05": {
+        "Designator": "D?",
+        "Footprints": [
+            "SOT-23"
+        ],
+        "Manufacturer": "Infineon",
+        "Manufacturer Part Number": "BAS7005E6327HTSA1",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Farnell",
+        "Supplier 3": "Mouser",
+        "Supplier Part Number 1": "BAS7005E6327HTSA1CT-ND",
+        "Supplier Part Number 2": "2443536",
+        "Supplier Part Number 3": "726-BAS7005E6327HTSA"
+    },
+    "D_BAV170": {
+        "Designator": "U?",
+        "Footprints": [
+            "DIL8"
+        ],
+        "Manufacturer": "Infineon",
+        "Manufacturer Part Number": "BAV170E6327",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "BAV170E6327HTSA1CT-ND"
+    },
+    "D_BAV99": {
+        "Designator": "U?",
+        "Footprints": [
+            "PG-DSO-8-44"
+        ],
+        "Manufacturer": "Diodes",
+        "Manufacturer Part Number": "BAV99-7-F",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier Part Number 1": "TLE7250VSJXUMA1CT-ND",
+        "Supplier Part Number 2": "726-TLE8250VSJXUMA1"
+    },
+    "D_BZM55C10": {
+        "Designator": "D?",
+        "Footprints": [
+            "DIOMELF1912N"
+        ],
+        "Manufacturer": "Vishay",
+        "Manufacturer Part Number": "BZM55C10-TR3",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "BZM55C10-TR3GICT-ND"
+    },
+    "D_D5V0M1U2S9": {},
+    "D_ES1D": {
+        "Designator": "D?",
+        "Footprints": [
+            "DO-214AC"
+        ],
+        "Manufacturer": "ON Semiconductor / Fairchild",
+        "Manufacturer Part Number": "ES1D",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Farnell",
+        "Supplier 3": "Mouser",
+        "Supplier Part Number 1": "ES1DFSCT-ND",
+        "Supplier Part Number 2": "1470967",
+        "Supplier Part Number 3": "512-ES1D"
+    },
+    "D_GSOT05C": {
+        "Designator": "X?",
+        "Footprints": [
+            "TC2030-MCP-NL"
+        ],
+        "Manufacturer": "Vishay",
+        "Manufacturer Part Number": "GSOT05C-E3-08",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "GSOT05C-E3-08CT-ND"
+    },
+    "D_GSOT12C": {
+        "Designator": "D?",
+        "Footprints": [
+            "SOT-23"
+        ],
+        "Manufacturer": "Vishay",
+        "Manufacturer Part Number": "GSOT12C-E3-08",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "GSOT12C-E3-08CT-ND"
+    },
+    "D_L1SP-CW90002F00000": {
+        "Designator": "D?",
+        "Footprints": [
+            "L1SP-xxx0002F000000"
+        ],
+        "Manufacturer": "Philips Lumileds",
+        "Manufacturer Part Number": "L1SP-CW90002F00000",
+        "Supplier 1": "Avnet Europe",
+        "Supplier Part Number 1": "L1SP-CW90002F00000"
+    },
+    "D_L1SP-DRD0002F00000": {},
+    "D_LED": {},
+    "D_LED-RGB-KCKK-4": {
+        "Designator": "X?",
+        "Footprints": [
+            "UE27BC54130"
+        ],
+        "Manufacturer": "Amphenol Commercial",
+        "Manufacturer Part Number": "UE27-BC54-130",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Farnell",
+        "Supplier 3": "Mouser",
+        "Supplier Part Number 1": "UE27BC54130-ND",
+        "Supplier Part Number 2": "2370393",
+        "Supplier Part Number 3": "941-VBAFKACAEDH8B7A3"
+    },
+    "D_LED_BU": {
+        "Designator": "D?",
+        "Footprints": [
+            "LED-0603 - BU"
+        ],
+        "Manufacturer": "Vishay Lite-On",
+        "Manufacturer Part Number": "LTST-C191TBKT-5A",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "160-2212-1-ND"
+    },
+    "D_LED_GN": {
+        "Designator": "D?",
+        "Footprints": [
+            "LED-0603 - GN"
+        ],
+        "Manufacturer": "Vishay Lite-On",
+        "Manufacturer Part Number": "LTST-C190KGKT",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "160-1435-1-ND"
+    },
+    "D_LED_OR": {
+        "Designator": "D?",
+        "Footprints": [
+            "LED-0603 - OR"
+        ],
+        "Manufacturer": "Vishay Lite-On",
+        "Manufacturer Part Number": "LTST-C190KFKT",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "160-1434-1-ND"
+    },
+    "D_LED_RD": {
+        "Designator": "D?",
+        "Footprints": [
+            "L1SP-xRD0002F000000"
+        ],
+        "Manufacturer": "Vishay Lite-On",
+        "Manufacturer Part Number": "LTST-C190KRKT",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "160-1436-1-ND"
+    },
+    "D_LL4148": {
+        "Designator": "D?",
+        "Footprints": [
+            "MiniMelf_SOD-80"
+        ],
+        "Manufacturer": "ON Semiconductor / Fairchild",
+        "Manufacturer Part Number": "LL4148",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "LL4148FSCT-ND"
+    },
+    "D_MP-3030-210H-30-90": {
+        "Designator": "D?",
+        "Footprints": [
+            "L1SP-xRD0002F000000"
+        ],
+        "Manufacturer": "Philips Lumileds",
+        "Manufacturer Part Number": "L1SP-DRD0002F00000",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "L1SP-DRD0002F00000"
+    },
+    "D_NZH6V8B": {
+        "Designator": "D?",
+        "Footprints": [
+            "SOD123"
+        ],
+        "Manufacturer": "Nexperia",
+        "Manufacturer Part Number": "NZH6V8B,115",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "1727-5078-1-ND",
+        "Supplier Part Number 2": "771-NZH6V8B-115",
+        "Supplier Part Number 3": "2069487"
+    },
+    "D_NZH8V2B": {
+        "Designator": "D?",
+        "Footprints": [
+            "SOD123"
+        ],
+        "Manufacturer": "NXP Semiconductors",
+        "Manufacturer Part Number": "NZH8V2B,115",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "1727-5080-1-ND"
+    },
+    "D_NZH9V1B": {
+        "Designator": "D?",
+        "Footprints": [
+            "SOD123"
+        ],
+        "Manufacturer": "NXP Semiconductors",
+        "Manufacturer Part Number": "NZH9V1B,115",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "1727-5081-1-ND"
+    },
+    "D_P1000J": {
+        "Designator": "D?",
+        "Footprints": [
+            "P1000J"
+        ],
+        "Manufacturer": "Diotec",
+        "Manufacturer Part Number": "P1000J",
+        "Supplier 1": "Conrad",
+        "Supplier Part Number 1": "556767 - 62"
+    },
+    "D_PMEG045V050EPDZ": {
+        "Designator": "D?",
+        "Footprints": [
+            "SOT1289"
+        ],
+        "Manufacturer": "Nexperia",
+        "Manufacturer Part Number": "PMEG045V050EPDZ",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "1727-2280-1-ND"
+    },
+    "D_PMEG4010ETR": {
+        "Designator": "D?",
+        "Footprints": [
+            "SOD123"
+        ],
+        "Manufacturer": "NXP Semiconductors",
+        "Manufacturer Part Number": "PMEG4010ETR,115",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "1727-1341-1-ND"
+    },
+    "D_S": {
+        "Designator": "D?",
+        "Footprints": [
+            "SOD123"
+        ]
+    },
+    "D_S1CH-3535660003-00000000-00001": {
+        "Designator": "MP?",
+        "Footprints": [
+            "M3x08S - Erdung"
+        ],
+        "Manufacturer": "Seoul Semiconductor",
+        "Manufacturer Part Number": "S1CH-3535660003-00000000-00001",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "897-S1CH-3535660003-00000000-00001CT-ND"
+    },
+    "D_S1W0-5050277006-0000005S-00002": {
+        "Designator": "D?",
+        "Footprints": [
+            "S1W0-5050277006"
+        ],
+        "Manufacturer": "Seoul Semiconductor",
+        "Manufacturer Part Number": "S1W0-5050277006-0000005S-00002",
+        "Supplier 1": "Future Electronics",
+        "Supplier 2": "Avnet",
+        "Supplier Part Number 1": "5117253",
+        "Supplier Part Number 2": "S1W0-5050277006-0000005S-00002"
+    },
+    "D_S1W0-5050577006-0000005S-00002": {
+        "Designator": "D?",
+        "Footprints": [
+            "S1W0-5050577006"
+        ],
+        "Manufacturer": "Seoul Semiconductor",
+        "Manufacturer Part Number": "S1W0-5050577006-0000005S-00002",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Future Electronics",
+        "Supplier Part Number 1": "897-1440-1-ND",
+        "Supplier Part Number 2": "1119768"
+    },
+    "D_S2A": {
+        "Designator": "D?",
+        "Footprints": [
+            "L1SP-xxx0002F000000"
+        ],
+        "Manufacturer": "ON Semiconductor / Fairchild",
+        "Manufacturer Part Number": "S2A",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "S2AFSCT-ND"
+    },
+    "D_S2D": {
+        "Designator": "D?",
+        "Footprints": [
+            "DO-214AA (SMB)"
+        ],
+        "Manufacturer": "ON Semiconductor / Fairchild",
+        "Manufacturer Part Number": "S2D",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "S2DFSCT-ND"
+    },
+    "D_SP1001-04JTG": {
+        "Designator": "D?",
+        "Footprints": [
+            "SOT353-1"
+        ],
+        "Manufacturer": "Littelfuse",
+        "Manufacturer Part Number": "SP1001-04JTG",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "F2895DKR-ND"
+    },
+    "D_SST-10-B-B90-P450": {
+        "Designator": "X?",
+        "Footprints": [
+            "DTS25W3SY"
+        ],
+        "Manufacturer": "Deltron",
+        "Manufacturer Part Number": "DTS25W3SY/2M85UN",
+        "Supplier 1": "Safematic",
+        "Supplier 2": "Deltron",
+        "Supplier Part Number 1": "*"
+    },
+    "D_SST-10-DR-B90-H660": {
+        "Designator": "D?",
+        "Footprints": [
+            "SST-x0"
+        ],
+        "Manufacturer": "Luminus Devices",
+        "Manufacturer Part Number": "SST-10-DR-B90-H660",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "1214-1437-1-ND"
+    },
+    "D_SST-20-W40H-A120-J5402": {},
+    "D_SST-x0": {
+        "Designator": "D?",
+        "Footprints": [
+            "SST-x0"
+        ]
+    },
+    "D_US1M-E3/61T": {
+        "Designator": "D?",
+        "Footprints": [
+            "DO-214AC (SMA) US1"
+        ],
+        "Manufacturer": "Vishay Semiconductors",
+        "Manufacturer Part Number": "US1M-E3/61T",
+        "Supplier 1": "Farnell",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Digi-Key",
+        "Supplier Part Number 1": "9551840",
+        "Supplier Part Number 2": "625-US1M-E3",
+        "Supplier Part Number 3": "US1M-E3/61TGICT-ND"
+    },
+    "D_USB6Bx": {
+        "Designator": "D?",
+        "Footprints": [
+            "SO8"
+        ],
+        "Manufacturer": "STMicroelectronics",
+        "Manufacturer Part Number": "USB6B1RL",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "497-3281-1-ND"
+    },
+    "D_USBLC6-2": {
+        "Designator": "D?",
+        "Footprints": [
+            "SOT-666"
+        ],
+        "Manufacturer": "STMicroelectronics",
+        "Manufacturer Part Number": "USBLC6-2P6",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "497-5026-1-ND",
+        "Supplier Part Number 2": "511-USBLC6-2P6",
+        "Supplier Part Number 3": "1295310"
+    },
+    "D_Z": {},
+    "F": {
+        "Designator": "F?",
+        "Footprints": [
+            "MF-LSMF185/33X"
+        ]
+    },
+    "F_0402L0x0SL": {
+        "Designator": "D?",
+        "Footprints": [
+            "SOD923"
+        ],
+        "Manufacturer": "Diodes",
+        "Manufacturer Part Number": "D5V0M1U2S9-7",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Farnell",
+        "Supplier 3": "Mouser",
+        "Supplier Part Number 1": "D5V0M1U2S9-7DICT-ND",
+        "Supplier Part Number 2": "2786555",
+        "Supplier Part Number 3": "576-0402L010SLKR"
+    },
+    "F_0805L010/24YR": {
+        "Designator": "F?",
+        "Footprints": [
+            "0805_PTC"
+        ],
+        "Manufacturer": "Littelfuse",
+        "Manufacturer Part Number": "0805L010/24YR",
+        "Supplier 1": "Farnell",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "3515995RL",
+        "Supplier Part Number 2": "576-0805L010/24YR",
+        "Supplier Part Number 3": "3515995"
+    },
+    "F_0ZCG0030FF2C": {
+        "Designator": "F?",
+        "Footprints": [
+            "1812_PTC"
+        ],
+        "Manufacturer": "Bel",
+        "Manufacturer Part Number": "0ZCG0030FF2C",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Farnell",
+        "Supplier 3": "Mouser",
+        "Supplier Part Number 1": "507-1758-1-ND",
+        "Supplier Part Number 2": "2848504",
+        "Supplier Part Number 3": "530-0ZCG0030FF2C"
+    },
+    "F_0ZCG0050AF2C": {
+        "Designator": "F?",
+        "Footprints": [
+            "1812_PTC"
+        ],
+        "Manufacturer": "Bel",
+        "Manufacturer Part Number": "0ZCG0050AF2C",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell"
+    },
+    "F_0ZCG0110BF2B": {
+        "Designator": "F?",
+        "Footprints": [
+            "1812_PTC"
+        ],
+        "Manufacturer": "Bel",
+        "Manufacturer Part Number": "0ZCG0110BF2B",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "507-1768-1-ND",
+        "Supplier Part Number 2": "530-0ZCG0110BF2B",
+        "Supplier Part Number 3": "2834910"
+    },
+    "F_0ZCG0150BF2C": {
+        "Designator": "F",
+        "Footprints": [
+            "1812_PTC"
+        ],
+        "Manufacturer": "Bel",
+        "Manufacturer Part Number": "0ZCG0150BF2C",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Farnell",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "507-1773-1-ND",
+        "Supplier Part Number 2": "2848512",
+        "Supplier Part Number 3": "2834912RL"
+    },
+    "F_0ZCJ0010FF2E": {
+        "Designator": "F?",
+        "Footprints": [
+            "1206_PTC"
+        ],
+        "Manufacturer": "Bel",
+        "Manufacturer Part Number": "0ZCJ0010FF2E",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "507-1794-1-ND",
+        "Supplier Part Number 2": "530-0ZCJ0010FF2E",
+        "Supplier Part Number 3": "2848521"
+    },
+    "F_0ZCJ0050AF2E": {
+        "Designator": "F?",
+        "Footprints": [
+            "1206_PTC"
+        ],
+        "Manufacturer": "Bel",
+        "Manufacturer Part Number": "0ZCJ0050AF2E",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "507-1803-1-ND"
+    },
+    "F_0ZCK0075FF2E": {
+        "Designator": "F?",
+        "Footprints": [
+            "0805_PTC"
+        ],
+        "Manufacturer": "Bel",
+        "Manufacturer Part Number": "0ZCK0075FF2E",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "507-1814-1-ND",
+        "Supplier Part Number 2": "530-0ZCK0075FF2E",
+        "Supplier Part Number 3": "2834927"
+    },
+    "F_1206L016WR": {
+        "Designator": "F?",
+        "Footprints": [
+            "1206_PTC"
+        ],
+        "Manufacturer": "Littelfuse",
+        "Manufacturer Part Number": "1206L016WR",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "F3132CT-ND",
+        "Supplier Part Number 2": "576-1206L016WR",
+        "Supplier Part Number 3": "1822201"
+    },
+    "F_1812L075/33DR": {
+        "Designator": "F?",
+        "Footprints": [
+            "1812_PTC"
+        ],
+        "Manufacturer": "Littelfuse",
+        "Manufacturer Part Number": "1812L075/33DR",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "F3355CT-ND",
+        "Supplier Part Number 2": "576-1812L075/33DR",
+        "Supplier Part Number 3": "1822212"
+    },
+    "F_3404.2330.xx": {
+        "Designator": "F?",
+        "Footprints": [
+            "OMx 125"
+        ],
+        "Manufacturer": "Schurter",
+        "Manufacturer Part Number": "3404.2330.11",
+        "Supplier 1": "Mouser",
+        "Supplier 2": "Digi-Key",
+        "Supplier Part Number 1": "693-3404.2330.11",
+        "Supplier Part Number 2": "486-6939-ND"
+    },
+    "F_3404.2331.xx": {
+        "Designator": "F?",
+        "Footprints": [
+            "OMx 125"
+        ],
+        "Manufacturer": "Schurter",
+        "Manufacturer Part Number": "3404.2331.22",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Digi-Key",
+        "Supplier Part Number 1": "3404.2331.22-ND",
+        "Supplier Part Number 2": "693-3404.2331.22",
+        "Supplier Part Number 3": "486-6938-ND"
+    },
+    "F_MF-LSMF185/33X": {
+        "Designator": "F?",
+        "Footprints": [
+            "MF-LSMF185/33X"
+        ],
+        "Manufacturer": "Bourns",
+        "Manufacturer Part Number": "MF-LSMF185/33X-2",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "MF-LSMF185/33X-2CT-ND",
+        "Supplier Part Number 2": "652-MF-LSMF185/33X-2",
+        "Supplier Part Number 3": "2057922"
+    },
+    "F_MF-NSMF020-2": {
+        "Designator": "F?",
+        "Footprints": [
+            "1206_PTC"
+        ],
+        "Manufacturer": "Bourns",
+        "Manufacturer Part Number": "MF-NSMF020-2",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "MF-NSMF020-2CT-ND",
+        "Supplier Part Number 2": "652-MF-NSMF020-2",
+        "Supplier Part Number 3": "1817286"
+    },
+    "K_RTD14012": {
+        "Designator": "K?",
+        "Footprints": [
+            "RTD14012"
+        ],
+        "Manufacturer": "TE Connectivity",
+        "Manufacturer Part Number": "RTD14012",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "PB980-ND",
+        "Supplier Part Number 2": "655-RTD14012",
+        "Supplier Part Number 3": "1175016"
+    },
+    "L": {
+        "Designator": "L?",
+        "Footprints": [
+            "0805_L"
+        ]
+    },
+    "LP": {
+        "Designator": "LP?",
+        "Footprints": [
+            "SLP3-150-450-R"
+        ]
+    },
+    "LP_SLP3-150-300-F": {
+        "Designator": "LP?",
+        "Footprints": [
+            "SLP3-150-300-F"
+        ],
+        "Manufacturer": "Bivar",
+        "Manufacturer Part Number": "SLP3-150-300-F",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "RSComponents",
+        "Supplier 3": "Mouser",
+        "Supplier Part Number 1": "492-2518-ND",
+        "Supplier Part Number 2": "1749685",
+        "Supplier Part Number 3": "749-SLP3-150-300-F"
+    },
+    "LP_SLP3-150-450-R": {
+        "Designator": "LP?",
+        "Footprints": [
+            "SLP3-150-450-R"
+        ],
+        "Manufacturer": "Bivar",
+        "Manufacturer Part Number": "SLP3-150-450-R",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Future Electronics",
+        "Supplier Part Number 1": "492-2519-ND",
+        "Supplier Part Number 2": "749-SLP3-150-450-R",
+        "Supplier Part Number 3": "1279777"
+    },
+    "L_74279265": {
+        "Designator": "L?",
+        "Footprints": [
+            "0603_L"
+        ],
+        "Manufacturer": "W\ufffdrth",
+        "Manufacturer Part Number": "74279265",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "732-1583-1-ND",
+        "Supplier Part Number 2": "710-74279265",
+        "Supplier Part Number 3": "1635691"
+    },
+    "L_742792651": {
+        "Designator": "X?",
+        "Footprints": [
+            "MSB12005"
+        ],
+        "Manufacturer": "Sauro",
+        "Manufacturer Part Number": "MSB12005-0N000E",
+        "Supplier 1": "Arrow Europe",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "MSB12005-0N000E",
+        "Supplier Part Number 2": "710-742792651",
+        "Supplier Part Number 3": "1635706"
+    },
+    "L_744031100": {
+        "Designator": "L?",
+        "Footprints": [
+            "WE-TPC-3816-S"
+        ],
+        "Manufacturer": "Wurth Electronics",
+        "Manufacturer Part Number": "744031100",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Farnell",
+        "Supplier 3": "Mouser",
+        "Supplier Part Number 1": "732-1010-1-ND",
+        "Supplier Part Number 2": "1635835",
+        "Supplier Part Number 3": "710-744031100"
+    },
+    "L_744031220": {
+        "Designator": "L?",
+        "Footprints": [
+            "WE-TPC-3816-S"
+        ],
+        "Manufacturer": "W\ufffdrth",
+        "Manufacturer Part Number": "744031220",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "732-1012-1-ND",
+        "Supplier Part Number 2": "710-744031220",
+        "Supplier Part Number 3": "1890602"
+    },
+    "L_744235900": {
+        "Designator": "L?",
+        "Footprints": [
+            "744235900"
+        ],
+        "Manufacturer": "Wurth Electronics",
+        "Manufacturer Part Number": "744235900",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "732-4223-1-ND",
+        "Supplier Part Number 2": "710-744235900",
+        "Supplier Part Number 3": "2249865"
+    },
+    "L_ACM-0603-900-T": {
+        "Designator": "L?",
+        "Footprints": [
+            "ACM-0603-900-T"
+        ],
+        "Manufacturer": "Abracon",
+        "Manufacturer Part Number": "ACM-0603-900-T",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier Part Number 1": "535-12407-1-ND",
+        "Supplier Part Number 2": "815-ACM-0603-900-T"
+    },
+    "L_AIUR-06-562K": {
+        "Designator": "L?",
+        "Footprints": [
+            "AIUR-06"
+        ],
+        "Manufacturer": "Abracon",
+        "Manufacturer Part Number": "AIUR-06-562K",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Avnet",
+        "Supplier Part Number 1": "AIUR-06-562K-ND",
+        "Supplier Part Number 2": "815-AIUR-06-562K",
+        "Supplier Part Number 3": "AIUR-06-562K"
+    },
+    "L_CB2518T471K": {},
+    "L_PE-54044SNL": {
+        "Designator": "L?",
+        "Footprints": [
+            "1007_L"
+        ],
+        "Manufacturer": "Pulse",
+        "Manufacturer Part Number": "CB2518T471K",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "587-2194-1-ND",
+        "Supplier Part Number 2": "963-CB2518T471K",
+        "Supplier Part Number 3": "2084774"
+    },
+    "L_PT61017PEL": {
+        "Designator": "L?",
+        "Footprints": [
+            "PT61017PEL"
+        ],
+        "Manufacturer": "Bourns",
+        "Manufacturer Part Number": "PT61017PEL",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "PT61017PELCT-ND",
+        "Supplier Part Number 2": "652-PT61017PEL",
+        "Supplier Part Number 3": "2372981"
+    },
+    "L_SRF4532-220Y": {
+        "Designator": "L?",
+        "Footprints": [
+            "SRF4532"
+        ],
+        "Manufacturer": "Bourns",
+        "Manufacturer Part Number": "SRF4532-220Y",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "SRF4532-220YCT-ND",
+        "Supplier Part Number 2": "652-SRF4532-220Y",
+        "Supplier Part Number 3": "2252352"
+    },
+    "L_SRN4012T-100M": {
+        "Designator": "L?",
+        "Footprints": [
+            "SRN4012T"
+        ],
+        "Manufacturer": "Bourns",
+        "Manufacturer Part Number": "SRN4012T-100M",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Farnell",
+        "Supplier 3": "Mouser",
+        "Supplier Part Number 1": "SRN4012T-100M-CT-ND",
+        "Supplier Part Number 2": "2467455",
+        "Supplier Part Number 3": "652-SRN4012T-100M"
+    },
+    "L_SRN4012T-220M": {},
+    "L_SRN4018TA-3R3M": {
+        "Manufacturer": "Bourns"
+    },
+    "L_SRN6045TA-220M": {
+        "Designator": "L?",
+        "Footprints": [
+            "SRN4018TA"
+        ],
+        "Manufacturer": "Bourns",
+        "Manufacturer Part Number": "SRN4018TA-3R3M",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "SRN4018TA-3R3MCT-ND",
+        "Supplier Part Number 2": "652-SRN4018TA-3R3M",
+        "Supplier Part Number 3": "2677203"
+    },
+    "L_SRU8028-150Y": {},
+    "L_SRU8028-220Y": {
+        "Designator": "L?",
+        "Footprints": [
+            "SRU8028"
+        ],
+        "Manufacturer": "Bourns",
+        "Manufacturer Part Number": "SRU8028-150Y",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "SRU8028-220YCT-ND",
+        "Supplier Part Number 2": "652-SRU8028-220Y",
+        "Supplier Part Number 3": "3373440"
+    },
+    "L_XAL4020-102MEB": {
+        "Designator": "L?",
+        "Footprints": [
+            "XAL40"
+        ],
+        "Manufacturer": "Coilcraft",
+        "Manufacturer Part Number": "XAL4020-102MEB",
+        "Supplier 1": "Farnell",
+        "Supplier 2": "Mouser",
+        "Supplier Part Number 1": "2289051",
+        "Supplier Part Number 2": "994-XAL4020-102MEB"
+    },
+    "MP_7466003": {
+        "Designator": "MP?",
+        "Footprints": [
+            "7466003"
+        ],
+        "Manufacturer": "Wurth Electronics",
+        "Manufacturer Part Number": "7466003",
+        "Supplier 1": "Farnell",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "RSComponents",
+        "Supplier Part Number 1": "2405984",
+        "Supplier Part Number 2": "710-7466003",
+        "Supplier Part Number 3": "8236409"
+    },
+    "MP_9774080482R": {
+        "Designator": "MP?",
+        "Footprints": [
+            "9774080482"
+        ],
+        "Manufacturer": "Wurth Electronics",
+        "Manufacturer Part Number": "9774080482R",
+        "Supplier 1": "Farnell",
+        "Supplier 2": "Newark",
+        "Supplier Part Number 1": "2847858",
+        "Supplier Part Number 2": "50AC9748"
+    },
+    "MP_9774110360R": {
+        "Designator": "MP?",
+        "Footprints": [
+            "9774110360"
+        ],
+        "Manufacturer": "Wurth Electronics",
+        "Manufacturer Part Number": "9774110360R",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "732-5278-1-ND",
+        "Supplier Part Number 2": "710-9774110360R",
+        "Supplier Part Number 3": "2438009"
+    },
+    "MP_9774140360R": {
+        "Designator": "MP?",
+        "Footprints": [
+            "9774140360"
+        ],
+        "Manufacturer": "Wurth Electronics",
+        "Manufacturer Part Number": "9774140360R",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "732-5281-1-ND",
+        "Supplier Part Number 2": "710-9774140360R",
+        "Supplier Part Number 3": "2438012"
+    },
+    "MP_Fiducial": {
+        "Designator": "MP?",
+        "Footprints": [
+            "REF - smaller"
+        ]
+    },
+    "MP_Legend": {
+        "Designator": "Logo?",
+        "Footprints": [
+            "PCB LEGEND - small"
+        ]
+    },
+    "MP_Logo_Abfall": {},
+    "MP_Logo_Blitz": {},
+    "MP_Logo_ESD": {},
+    "MP_Logo_QR": {},
+    "MP_Logo_Safematic": {},
+    "MP_Mounting Hole": {},
+    "MP_Mounting Hole connected": {},
+    "M_1717": {},
+    "Mod_NINA_B3": {
+        "Designator": "*",
+        "Footprints": [
+            "NINA-B311"
+        ]
+    },
+    "Mod_Nucleo": {
+        "Designator": "A?",
+        "Footprints": [
+            "MOD NUCLEO"
+        ]
+    },
+    "N_NetTie": {},
+    "POT": {
+        "Designator": "D?",
+        "Footprints": [
+            "10.16mm_tht_D"
+        ],
+        "Manufacturer": "Phoenix Contact",
+        "Manufacturer Part Number": "1984617"
+    },
+    "Q_ABLS2-8.000MHZ-D4Y-T": {
+        "Designator": "C?",
+        "Footprints": [
+            "CAPAE-D10.0x10.2"
+        ],
+        "Manufacturer": "Elna America",
+        "Manufacturer Part Number": "ABLS2-8.000MHZ-D4Y-T",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "604-1279-1-ND",
+        "Supplier Part Number 2": "555-HVK-35V271MH10ER",
+        "Supplier Part Number 3": "1885238"
+    },
+    "Q_ABMM2-12.000MHZ-E2-T": {
+        "Designator": "Q?",
+        "Footprints": [
+            "ABMM2"
+        ],
+        "Manufacturer": "Abracon",
+        "Manufacturer Part Number": "ABMM2-12.000MHZ-E2-T",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "535-9631-1-ND",
+        "Supplier Part Number 2": "815-ABMM2-12-E2T",
+        "Supplier Part Number 3": "1652557"
+    },
+    "Q_ABS25-32.768KHZ-6-T": {
+        "Designator": "X?",
+        "Footprints": [
+            "25POL_DSUB_SPEZ_FEMALE"
+        ],
+        "Manufacturer": "Deltron",
+        "Manufacturer Part Number": "DTS25W3 SYC/2M46M3",
+        "Supplier 1": "Safematic",
+        "Supplier 2": "Deltron",
+        "Supplier 3": "Mouser",
+        "Supplier Part Number 1": "*",
+        "Supplier Part Number 2": "DE016524",
+        "Supplier Part Number 3": "815-ABS25-32.768K6-T"
+    },
+    "Q_Crystal": {},
+    "R": {
+        "Designator": "R?",
+        "Footprints": [
+            "Resistor Pitch 2.54mm"
+        ]
+    },
+    "RC_PMR209MB5470M047R30": {
+        "Designator": "RC?",
+        "Footprints": [
+            "PMR209MB5470M047R30"
+        ],
+        "Manufacturer": "KEMET",
+        "Manufacturer Part Number": "PMR209MB5470M047R30",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "399-7509-ND"
+    },
+    "R_CRM2512-FX-1R00ELF": {
+        "Designator": "R?",
+        "Footprints": [
+            "2512_R"
+        ],
+        "Manufacturer": "Bourns",
+        "Manufacturer Part Number": "CRM2512-FX-1R00ELF",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Farnell",
+        "Supplier 3": "Mouser",
+        "Supplier Part Number 1": "CRM2512-FX-1R00ELFCT-ND",
+        "Supplier Part Number 2": "2328172",
+        "Supplier Part Number 3": "652-CRM2512FX1R00ELF"
+    },
+    "R_NTCALUG02A103F800": {
+        "Designator": "R?",
+        "Footprints": [
+            "NTCALUG02A103F800"
+        ],
+        "Manufacturer": "Vishay BCcomponents",
+        "Manufacturer Part Number": "NTCALUG02A103F800",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Farnell",
+        "Supplier 3": "Distrelec",
+        "Supplier Part Number 1": "BC2899-ND",
+        "Supplier Part Number 2": "2885025",
+        "Supplier Part Number 3": "30153835"
+    },
+    "R_NTCG103JF103FT1": {
+        "Designator": "Logo?",
+        "Footprints": [
+            "Safematic_Logo small"
+        ],
+        "Manufacturer": "TDK",
+        "Manufacturer Part Number": "NTCG103JF103FT1",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "445-2550-1-ND",
+        "Supplier Part Number 2": "810-NTCG103JF103FT1",
+        "Supplier Part Number 3": "3516879"
+    },
+    "SB": {},
+    "S_1825232-1": {
+        "Designator": "S?",
+        "Footprints": [
+            "ESD_5MM"
+        ],
+        "Manufacturer": "TE Connectivity AMP",
+        "Manufacturer Part Number": "1825232-1",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "A107673-ND",
+        "Supplier Part Number 2": "655-1825232-1",
+        "Supplier Part Number 3": "2772069"
+    },
+    "S_500SSP1S1M6QEA": {
+        "Designator": "MP?",
+        "Footprints": [
+            "M3x10S"
+        ],
+        "Manufacturer": "E-Switch",
+        "Manufacturer Part Number": "500SSP1S1M6QEA",
+        "Supplier 1": "Distrelec",
+        "Supplier 2": "Digi-Key",
+        "Supplier 3": "Mouser",
+        "Supplier Part Number 1": "30152607",
+        "Supplier Part Number 2": "EG2478-ND",
+        "Supplier Part Number 3": "612-500-A161"
+    },
+    "S_GW22LCP": {
+        "Designator": "Q?",
+        "Footprints": [
+            "ABLS2"
+        ],
+        "Manufacturer": "NKK Switches",
+        "Manufacturer Part Number": "GW22LCP",
+        "Supplier 1": "Mouser",
+        "Supplier 2": "Farnell",
+        "Supplier 3": "Digi-Key",
+        "Supplier Part Number 1": "633-GW22LCP",
+        "Supplier Part Number 2": "2374868",
+        "Supplier Part Number 3": "360-2804-ND"
+    },
+    "S_GW22RCP": {
+        "Designator": "S?",
+        "Footprints": [
+            "GW22RxP"
+        ],
+        "Manufacturer": "NKK Switches",
+        "Manufacturer Part Number": "GW22RCP",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "GW22RCP-ND"
+    },
+    "S_JS202011CQN": {
+        "Designator": "Logo?",
+        "Footprints": [
+            "Blitz_5MM"
+        ],
+        "Manufacturer": "ITT C&K",
+        "Manufacturer Part Number": "JS202011CQN",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "401-2001-ND",
+        "Supplier Part Number 2": "611-JS202011CQN",
+        "Supplier Part Number 3": "2320018"
+    },
+    "S_PTS645SM43SMTR92LFS": {
+        "Designator": "S?",
+        "Footprints": [
+            "PTS645S"
+        ],
+        "Manufacturer": "NKK Switches",
+        "Manufacturer Part Number": "GW22RCP",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "CKN9112CT-ND",
+        "Supplier Part Number 2": "611-PTS645SM43SMTR92",
+        "Supplier Part Number 3": "2320087"
+    },
+    "S_PTS645VL39-2LFS": {
+        "Designator": "S?",
+        "Footprints": [
+            "PTS645VL31-2 LFS"
+        ],
+        "Manufacturer": "ITT C&K",
+        "Manufacturer Part Number": "PTS645VL39-2LFS",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Farnell",
+        "Supplier 3": "Mouser",
+        "Supplier Part Number 1": "CKN9103-ND",
+        "Supplier Part Number 2": "3263390",
+        "Supplier Part Number 3": "611-PTS645VL392"
+    },
+    "S_Pushbutton": {
+        "Designator": "S?",
+        "Footprints": [
+            "PTS645S"
+        ]
+    },
+    "TP_S13-503": {
+        "Designator": "Logo?",
+        "Footprints": [
+            "QR 8*8"
+        ],
+        "Manufacturer": "Harwin",
+        "Manufacturer Part Number": "S13-503",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell"
+    },
+    "TP_S19-501": {
+        "Designator": "TP?",
+        "Footprints": [
+            "S19-501"
+        ],
+        "Manufacturer": "Harwin",
+        "Manufacturer Part Number": "S19-501",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "952-2614-ND",
+        "Supplier Part Number 2": "855-S19-501",
+        "Supplier Part Number 3": "9960198"
+    },
+    "TP_S25-022": {
+        "Designator": "TP?",
+        "Footprints": [
+            "S25-022"
+        ],
+        "Manufacturer": "Harwin",
+        "Manufacturer Part Number": "S25-022",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "952-2293-ND",
+        "Supplier Part Number 2": "855-S25-022",
+        "Supplier Part Number 3": "9960260"
+    },
+    "TP_S25-501": {
+        "Designator": "TP?",
+        "Footprints": [
+            "S25-501"
+        ],
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier Part Number 1": "952-3481-ND",
+        "Supplier Part Number 2": "855-S25-501"
+    },
+    "TP_Testpoint": {},
+    "TR_EI3032031": {
+        "Designator": "TP?",
+        "Footprints": [
+            "TP-0.8mm"
+        ],
+        "Manufacturer": "Hahn",
+        "Manufacturer Part Number": "EI3032031",
+        "Supplier 1": "Distrelec",
+        "Supplier Part Number 1": "15618129"
+    },
+    "T_BSS138": {
+        "Designator": "NT?",
+        "Footprints": [
+            "NETTIE_TH"
+        ],
+        "Manufacturer": "ON Semiconductor / Fairchild",
+        "Manufacturer Part Number": "BSS138",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "BSS138DKR-ND",
+        "Supplier Part Number 2": "512-BSS138",
+        "Supplier Part Number 3": "9845330"
+    },
+    "T_IXTK90P20P": {
+        "Designator": "U?",
+        "Footprints": [
+            "TO-264-Coolingblock"
+        ],
+        "Manufacturer": "IXYS",
+        "Manufacturer Part Number": "IXTK90P20P",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "IXTK90P20P-ND",
+        "Supplier Part Number 2": "747-IXTK90P20P",
+        "Supplier Part Number 3": "3438413"
+    },
+    "T_PMSS3904": {
+        "Designator": "U?",
+        "Footprints": [
+            "SOT323"
+        ],
+        "Manufacturer": "NXP Semiconductors",
+        "Manufacturer Part Number": "PMSS3904,115",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier Part Number 1": "1727-6290-1-ND",
+        "Supplier Part Number 2": "771-PMSS3904T/R"
+    },
+    "T_SI2308BDS": {
+        "Designator": "U?",
+        "Footprints": [
+            "SOT-23"
+        ],
+        "Manufacturer": "Vishay",
+        "Manufacturer Part Number": "SI2308BDS-T1-GE3",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "SI2308BDS-T1-GE3CT-ND",
+        "Supplier Part Number 2": "781-SI2308BDS-T1-GE3",
+        "Supplier Part Number 3": "1838997"
+    },
+    "U_74AHCT125D": {
+        "Designator": "U?",
+        "Footprints": [
+            "SOP 14"
+        ],
+        "Manufacturer": "NXP Semiconductors",
+        "Manufacturer Part Number": "74AHCT125D,118",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Digi-Key",
+        "Supplier 3": "Mouser",
+        "Supplier Part Number 1": "1727-7293-1-ND",
+        "Supplier Part Number 2": "296-4652-5-ND",
+        "Supplier Part Number 3": "595-SN74AHCT125D"
+    },
+    "U_ACS723LLCTR-05AB-T": {
+        "Designator": "U?",
+        "Footprints": [
+            "SO8"
+        ],
+        "Manufacturer": "Allegro MicroSystems",
+        "Manufacturer Part Number": "ACS723LLCTR-05AB-T",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "RSComponents",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "620-1641-1-ND",
+        "Supplier Part Number 2": "8660767",
+        "Supplier Part Number 3": "2991650"
+    },
+    "U_ACS723LLCTR-20AU-T": {
+        "Designator": "U?",
+        "Footprints": [
+            "SO8"
+        ],
+        "Manufacturer": "Allegro MicroSystems",
+        "Manufacturer Part Number": "ACS723LLCTR-20AU-T",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Farnell",
+        "Supplier Part Number 1": "620-1645-1-ND",
+        "Supplier Part Number 2": "3224918"
+    },
+    "U_AD8496CRMZ": {
+        "Designator": "U?",
+        "Footprints": [
+            "MSOP8"
+        ],
+        "Manufacturer": "Analog Devices",
+        "Manufacturer Part Number": "AD8496CRMZ",
+        "Supplier 1": "Mouser",
+        "Supplier 2": "Digi-Key",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "584-AD8496CRMZ",
+        "Supplier Part Number 2": "AD8496CRMZ-ND",
+        "Supplier Part Number 3": "2353499"
+    },
+    "U_A_AD8617ARZ": {
+        "Designator": "U?",
+        "Footprints": [
+            "MSOP8"
+        ],
+        "Manufacturer": "Analog Devices",
+        "Manufacturer Part Number": "AD8617ARZ",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "AD8617ARZ-ND",
+        "Supplier Part Number 2": "584-AD8617ARZ",
+        "Supplier Part Number 3": "1117888"
+    },
+    "U_A_LM258A": {
+        "Designator": "U?",
+        "Footprints": [
+            "SO8"
+        ],
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "LM258ADR",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "296-15169-1-ND"
+    },
+    "U_A_LM321MF/NOPB": {
+        "Designator": "U?",
+        "Footprints": [
+            "SOT-23-5"
+        ],
+        "Manufacturer": "TI National Semiconductor",
+        "Manufacturer Part Number": "LM321MF/NOPB",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "LM321MF/NOPBCT-ND"
+    },
+    "U_A_LT1366": {},
+    "U_A_MAX44248ASA": {
+        "Designator": "L?",
+        "Footprints": [
+            "SRN4012T"
+        ],
+        "Manufacturer": "Bourns",
+        "Manufacturer Part Number": "SRN4012T-220M",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Farnell",
+        "Supplier 3": "Mouser",
+        "Supplier Part Number 1": "SRN4012T-220MCT-ND",
+        "Supplier Part Number 2": "2467457",
+        "Supplier Part Number 3": "652-SRN4012T-220M"
+    },
+    "U_A_MAX9019": {
+        "Designator": "U?",
+        "Footprints": [
+            "SOT23-8"
+        ],
+        "Manufacturer": "Maxim",
+        "Manufacturer Part Number": "MAX9019EKA+T",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "MAX9019EKA+TCT-ND"
+    },
+    "U_A_TLV3202AIDR": {
+        "Designator": "U?",
+        "Footprints": [
+            "SO8"
+        ],
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "TLV3202AIDR",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "296-34773-1-ND"
+    },
+    "U_A_TLV9002IDGKT": {},
+    "U_B_BD6232HFP": {
+        "Designator": "U?",
+        "Footprints": [
+            "HRP7"
+        ],
+        "Manufacturer": "Rohm",
+        "Manufacturer Part Number": "BD6232HFP-TR",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "BD6232HFPCT-ND"
+    },
+    "U_B_BTN8962TA": {
+        "Designator": "U?",
+        "Footprints": [
+            "INF-PG-TO263-7-1_M"
+        ],
+        "Manufacturer": "Infineon",
+        "Manufacturer Part Number": "BTN8962TAAUMA1",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "BTN8962TAAUMA1INCT-ND"
+    },
+    "U_CPC1006N": {
+        "Designator": "U?",
+        "Footprints": [
+            "SO8"
+        ],
+        "Manufacturer": "Linear Technology",
+        "Manufacturer Part Number": "LT1366CS8#PBF",
+        "Supplier 1": "Safematic",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "CLA365-ND",
+        "Supplier Part Number 2": "LT1366CS8#PBF-ND",
+        "Supplier Part Number 3": "3595910"
+    },
+    "U_C_OPOS6UL": {
+        "Designator": "U?",
+        "Footprints": [
+            "SODIMM204"
+        ],
+        "Manufacturer": "TE Connectivity",
+        "Manufacturer Part Number": "2-2013289-1",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "A116236CT-ND"
+    },
+    "U_C_STM32F103RxT": {
+        "Designator": "U?",
+        "Footprints": [
+            "DGK (S-PDSO-G8)"
+        ],
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "TLV9002IDGKT",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Farnell",
+        "Supplier 3": "Newark",
+        "Supplier Part Number 1": "296-49509-1-ND",
+        "Supplier Part Number 2": "1624138",
+        "Supplier Part Number 3": "01P4101"
+    },
+    "U_DS2438Z+": {
+        "Designator": "U?",
+        "Footprints": [
+            "SO8"
+        ],
+        "Manufacturer": "Maxim",
+        "Manufacturer Part Number": "DS2438Z+",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "DS2438Z+-ND"
+    },
+    "U_D_MAX14874ETC+": {},
+    "U_G_74LVC07A": {
+        "Designator": "U?",
+        "Footprints": [
+            "TSSOP-14"
+        ],
+        "Manufacturer": "Diodes",
+        "Manufacturer Part Number": "74LVC07AT14-13",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier Part Number 1": "74LVC07AT14-13DICT-ND",
+        "Supplier Part Number 2": "621-74LVC07AT14-13"
+    },
+    "U_G_74LVC08A": {
+        "Designator": "U?",
+        "Footprints": [
+            "SOP 14"
+        ],
+        "Manufacturer": "Nexperia",
+        "Manufacturer Part Number": "74LVC08AD,118",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "1727-3078-1-ND",
+        "Supplier Part Number 2": "771-74LVC08AD-T",
+        "Supplier Part Number 3": "2438797"
+    },
+    "U_G_74LVC1G08": {},
+    "U_G_74LVC1G11": {
+        "Designator": "U?",
+        "Footprints": [
+            "SOT353-1"
+        ],
+        "Manufacturer": "Nexperia",
+        "Manufacturer Part Number": "74LVC1G08GW,125",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "1727-2872-1-ND",
+        "Supplier Part Number 2": "771-74LVC1G08GW-G",
+        "Supplier Part Number 3": "1626473"
+    },
+    "U_G_74LVC1G123DC": {
+        "Designator": "U?",
+        "Footprints": [
+            "12 TDFN-EP"
+        ],
+        "Manufacturer": "Maxim",
+        "Manufacturer Part Number": "MAX14874ETC+",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "MAX14874ETC+-ND",
+        "Supplier Part Number 2": "771-74LVC1G123DC125",
+        "Supplier Part Number 3": "3120805"
+    },
+    "U_G_74LVC1G14": {
+        "Designator": "U?",
+        "Footprints": [
+            "SOT353-1"
+        ],
+        "Manufacturer": "Nexperia",
+        "Manufacturer Part Number": "74LVC1G14GW,125",
+        "Supplier 1": "Farnell",
+        "Supplier 2": "Digi-Key",
+        "Supplier 3": "Mouser"
+    },
+    "U_G_74LVC1G17": {
+        "Designator": "U?",
+        "Footprints": [
+            "SOT353-1"
+        ],
+        "Manufacturer": "NXP Semiconductors",
+        "Manufacturer Part Number": "74LVC1G17GW,125",
+        "Supplier 1": "Farnell",
+        "Supplier Part Number 1": "2438835"
+    },
+    "U_G_74LVC1G18": {
+        "Designator": "U?",
+        "Footprints": [
+            "SOT457"
+        ],
+        "Manufacturer": "NXP Semiconductors",
+        "Manufacturer Part Number": "74LVC1G18GV,125",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "1727-6972-1-ND"
+    },
+    "U_G_74LVC2G17": {
+        "Designator": "U?",
+        "Footprints": [
+            "SOT363"
+        ],
+        "Manufacturer": "NXP Semiconductors",
+        "Manufacturer Part Number": "74LVC2G17GW,125",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "1727-4218-1-ND",
+        "Supplier Part Number 2": "771-LVC2G17GW125",
+        "Supplier Part Number 3": "2463755"
+    },
+    "U_ILQ2": {
+        "Designator": "M?",
+        "Footprints": [
+            "Faulhaber1717"
+        ],
+        "Manufacturer": "Vishay Semiconductors",
+        "Manufacturer Part Number": "ILQ2",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "751-1330-5-ND",
+        "Supplier Part Number 2": "782-ILQ2",
+        "Supplier Part Number 3": "1469495"
+    },
+    "U_M_AT24CS02-SS": {
+        "Designator": "U?",
+        "Footprints": [
+            "SO8"
+        ],
+        "Manufacturer": "Microchip / Atmel",
+        "Manufacturer Part Number": "AT24CS02-SSHM-T",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "AT24CS02-SSHM-TCT-ND"
+    },
+    "U_OPAMP": {},
+    "U_O_APX811-29UG-7": {
+        "Designator": "U?",
+        "Footprints": [
+            "APX811/812"
+        ],
+        "Manufacturer": "Diodes",
+        "Manufacturer Part Number": "APX811-29UG-7",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "APX811-29UG-7DICT-ND"
+    },
+    "U_O_APX811-31UG-7": {},
+    "U_O_APX811-46UG-7": {
+        "Designator": "U?",
+        "Footprints": [
+            "APX811/812"
+        ],
+        "Manufacturer": "Diodes",
+        "Manufacturer Part Number": "APX811-31UG-7",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "APX811-31UG-7DICT-ND",
+        "Supplier Part Number 2": "621-APX811-31UG-7",
+        "Supplier Part Number 3": "3483043"
+    },
+    "U_O_APX823": {},
+    "U_O_ISP742RI": {
+        "Designator": "U?",
+        "Footprints": [
+            "SO8"
+        ],
+        "Manufacturer": "Infineon",
+        "Manufacturer Part Number": "ISP742RIFUMA1",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "ISP742RIFUMA1CT-ND",
+        "Supplier Part Number 2": "726-ISP742RI",
+        "Supplier Part Number 3": "2215519"
+    },
+    "U_O_ISP752R": {
+        "Designator": "U?",
+        "Footprints": [
+            "SO8"
+        ],
+        "Manufacturer": "Infineon",
+        "Manufacturer Part Number": "ISP752RFUMA1",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "ISP752RFUMA1CT-ND"
+    },
+    "U_O_ITS4060S": {
+        "Designator": "U?",
+        "Footprints": [
+            "SO8"
+        ],
+        "Manufacturer": "Infineon",
+        "Manufacturer Part Number": "ITS4060SSJNXUMA1",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "ITS4060SSJNXUMA1CT-ND",
+        "Supplier Part Number 2": "726-ITS4060S-SJ-N",
+        "Supplier Part Number 3": "2710048"
+    },
+    "U_O_ITS4142N": {
+        "Designator": "U?",
+        "Footprints": [
+            "SOT223"
+        ],
+        "Manufacturer": "Infineon",
+        "Manufacturer Part Number": "ITS4142NHUMA1",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "ITS4142NHUMA1CT-ND"
+    },
+    "U_O_LM4040AIM3-10.0": {
+        "Designator": "D?",
+        "Footprints": [
+            "SOT-23"
+        ],
+        "Manufacturer": "TI National Semiconductor",
+        "Manufacturer Part Number": "LM4040AIM3-10.0",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "LM4040AIM3-10.0CT-ND"
+    },
+    "U_O_LM4040AIM3-3.0": {
+        "Designator": "X?",
+        "Footprints": [
+            "Pin Header 2x10 TH Pitch 2.54mm"
+        ],
+        "Manufacturer": "TI National Semiconductor",
+        "Manufacturer Part Number": "LM4040AIM3-3.0/NOPB",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "LM4040AIM3-3.0/NOPBCT-ND"
+    },
+    "U_P_ADR4525ARZ": {
+        "Designator": "Logo?",
+        "Footprints": [
+            "Abfall_5mm"
+        ],
+        "Manufacturer": "Analog Devices",
+        "Manufacturer Part Number": "ADR4525ARZ",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "ADR4525ARZ-ND"
+    },
+    "U_P_AP3429AKTTR-G1": {
+        "Designator": "U?",
+        "Footprints": [
+            "SOT-23-5"
+        ],
+        "Manufacturer": "Diodes",
+        "Manufacturer Part Number": "AP3429AKTTR-G1",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "AP3429AKTTR-G1DICT-ND"
+    },
+    "U_P_LP2950ACDT-5RKG": {
+        "Designator": "U?",
+        "Footprints": [
+            "TO228P970-3N"
+        ],
+        "Manufacturer": "ON Semiconductor",
+        "Manufacturer Part Number": "LP2950ACDT-5RKG",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "LP2950ACDT-5RKGOSCT-ND"
+    },
+    "U_P_MC7812CDTRKG": {
+        "Designator": "U?",
+        "Footprints": [
+            "TO228P970-3N"
+        ],
+        "Manufacturer": "ON Semiconductor",
+        "Manufacturer Part Number": "MC7812CDTRKG",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Farnell",
+        "Supplier 3": "Mouser",
+        "Supplier Part Number 1": "MC7812CDTRKGOSCT-ND",
+        "Supplier Part Number 2": "2534298",
+        "Supplier Part Number 3": "863-MC7812CDTRKG"
+    },
+    "U_P_MCP16301T-E/CH": {
+        "Designator": "U?",
+        "Footprints": [
+            "MCHP-SOT-23-CH6_M"
+        ],
+        "Manufacturer": "Microchip",
+        "Manufacturer Part Number": "MCP16301T-E/CH",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "MCP16301T-E/CH-ND"
+    },
+    "U_P_MCP16301T-I/CHY": {
+        "Designator": "U?",
+        "Footprints": [
+            "MCHP-SOT-23-CHY6_M"
+        ],
+        "Manufacturer": "Microchip",
+        "Manufacturer Part Number": "MCP16301T-I/CHY",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "MCP16301T-I/CHYCT-ND"
+    },
+    "U_P_MCP16311-E/MS": {
+        "Designator": "U?",
+        "Footprints": [
+            "MSOP8"
+        ],
+        "Manufacturer": "Microchip",
+        "Manufacturer Part Number": "MCP16311-E/MS",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "MCP16311-E/MS-ND"
+    },
+    "U_P_MCP16312-E/MS": {},
+    "U_P_MCP1703T-3302E/CB": {
+        "Designator": "U?",
+        "Footprints": [
+            "SOT-23"
+        ],
+        "Manufacturer": "Microchip",
+        "Manufacturer Part Number": "MCP1703T-3302E/CB",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "MCP1703T-3302E/CBCT-ND"
+    },
+    "U_P_RAC05-05SK": {
+        "Designator": "U?",
+        "Footprints": [
+            "RAC05"
+        ],
+        "Manufacturer": "Recom",
+        "Manufacturer Part Number": "RAC05-05SK",
+        "Supplier 1": "Farnell",
+        "Supplier Part Number 1": "2784923"
+    },
+    "U_P_RAC05-24SK": {
+        "Designator": "U?",
+        "Footprints": [
+            "RAC05"
+        ],
+        "Manufacturer": "Recom",
+        "Manufacturer Part Number": "RAC05-24SK",
+        "Supplier 1": "Farnell",
+        "Supplier Part Number 1": "2784926"
+    },
+    "U_P_RAC10-05SK/277": {
+        "Designator": "U?",
+        "Footprints": [
+            "RAC10"
+        ],
+        "Manufacturer": "Recom",
+        "Manufacturer Part Number": "RAC10-05SK/277",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "945-3121-5-ND"
+    },
+    "U_P_RAC10-24SK/277": {},
+    "U_P_RY-0524S/P": {
+        "Designator": "U?",
+        "Footprints": [
+            "RY-xxxx"
+        ],
+        "Manufacturer": "Recom",
+        "Manufacturer Part Number": "RY-0524S/P",
+        "Supplier 1": "Mouser",
+        "Supplier Part Number 1": "919-RY-0524S/P"
+    },
+    "U_P_TLV70733DQN": {
+        "Designator": "U?",
+        "Footprints": [
+            "TI-DQN4-480X480TP_V"
+        ],
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "TLV70733DQNR",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Newark",
+        "Supplier 3": "Mouser",
+        "Supplier Part Number 1": "TLV70733DQNR-ND",
+        "Supplier Part Number 2": "53W1911",
+        "Supplier Part Number 3": "595-TLV70733DQNR"
+    },
+    "U_P_TMG07105": {
+        "Designator": "U?",
+        "Footprints": [
+            "TMG 07"
+        ],
+        "Manufacturer": "Traco Power",
+        "Manufacturer Part Number": "TMG07105",
+        "Supplier 1": "Mouser",
+        "Supplier Part Number 1": "495-TMG07105"
+    },
+    "U_P_TPS560430XDBVR": {
+        "Designator": "U?",
+        "Footprints": [
+            "RAC10"
+        ],
+        "Manufacturer": "Recom",
+        "Manufacturer Part Number": "RAC10-24SK/277",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "945-3124-5-ND"
+    },
+    "U_P_TPS73133DBVR": {
+        "Designator": "U?",
+        "Footprints": [
+            "TI-DBV5_M"
+        ],
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "TPS73133DBVR",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "296-32553-1-ND"
+    },
+    "U_P_TPS73150DBVR": {
+        "Designator": "U?",
+        "Footprints": [
+            "TI-DBV5_N"
+        ],
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "TPS73150DBVR",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier Part Number 1": "296-44366-1-ND",
+        "Supplier Part Number 2": "595-TPS73150DBVR"
+    },
+    "U_Q_AP21410": {},
+    "U_Q_AP2141FMG-7": {
+        "Designator": "U?",
+        "Footprints": [
+            "U-DFN2018-6"
+        ],
+        "Manufacturer": "Diodes",
+        "Manufacturer Part Number": "AP2141FMG-7",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "AP2141FMG-7DICT-ND"
+    },
+    "U_Q_AP2141MPG-13": {
+        "Designator": "U?",
+        "Footprints": [
+            "MSOP-8EP"
+        ],
+        "Manufacturer": "Diodes",
+        "Manufacturer Part Number": "AP2141MPG-13",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "AP2141MPGDICT-ND"
+    },
+    "U_Q_AP2141SG-13": {
+        "Designator": "U?",
+        "Footprints": [
+            "SO8"
+        ],
+        "Manufacturer": "Diodes",
+        "Manufacturer Part Number": "AP2141SG-13",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "AP2141SGDICT-ND"
+    },
+    "U_Q_AP21510": {
+        "Designator": "U?",
+        "Footprints": [
+            "U-DFN2018-6"
+        ],
+        "Manufacturer": "Diodes",
+        "Manufacturer Part Number": "AP21410FM-7",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "AP21410FM-7DICT-ND"
+    },
+    "U_Q_AP2151FMG-7": {
+        "Designator": "U?",
+        "Footprints": [
+            "U-DFN2018-6"
+        ],
+        "Manufacturer": "Diodes",
+        "Manufacturer Part Number": "AP2151FMG-7",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "AP2151FMG-7DIDKR-ND"
+    },
+    "U_Q_AP2151SG-13": {
+        "Designator": "U?",
+        "Footprints": [
+            "SO8"
+        ],
+        "Manufacturer": "Diodes",
+        "Manufacturer Part Number": "AP2141FMG-7",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "AP2151SGDICT-ND"
+    },
+    "U_S_DRV5033AJQLPG": {
+        "Designator": "U?",
+        "Footprints": [
+            "MSOP8"
+        ],
+        "Manufacturer": "Microchip",
+        "Manufacturer Part Number": "MCP16312-E/MS",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "MCP16312-E/MS-ND"
+    },
+    "U_S_DS18B20+": {
+        "Designator": "U?",
+        "Footprints": [
+            "To-92"
+        ],
+        "Manufacturer": "Maxim",
+        "Manufacturer Part Number": "DS18B20+",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "DS18B20+-ND"
+    },
+    "U_S_PCF85063TP": {
+        "Designator": "U?",
+        "Footprints": [
+            "HWSON8"
+        ],
+        "Manufacturer": "NXP Semiconductors",
+        "Manufacturer Part Number": "PCF85063TP/1Z",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "568-10236-1-ND"
+    },
+    "U_TLV62585DRLR": {
+        "Designator": "U?",
+        "Footprints": [
+            "SOT563"
+        ],
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "TLV62585DRLR",
+        "Supplier 1": "Mouser",
+        "Supplier Part Number 1": "595-TLV62585DRLR"
+    },
+    "U_TMR1-2423": {
+        "Designator": "U?",
+        "Footprints": [
+            "TMR1-2423"
+        ],
+        "Manufacturer": "Traco Power",
+        "Manufacturer Part Number": "TMR1-2423",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "1951-2594-ND"
+    },
+    "U_T_FT230XS": {
+        "Designator": "U?",
+        "Footprints": [
+            "SSOP-16_M"
+        ],
+        "Manufacturer": "FTDI",
+        "Manufacturer Part Number": "FT230XS-U",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "768-1154-5-ND"
+    },
+    "U_T_MAX3311E": {
+        "Designator": "U?",
+        "Footprints": [
+            "10L uMAX"
+        ],
+        "Manufacturer": "Maxim",
+        "Manufacturer Part Number": "MAX3311ECUB+",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "MAX3311ECUB+-ND"
+    },
+    "U_T_TLE7250V": {
+        "Designator": "U?",
+        "Footprints": [
+            "PG-DSO-8-44"
+        ],
+        "Manufacturer": "Infineon",
+        "Manufacturer Part Number": "TLE7250VSJXUMA1",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "TLE7250VSJXUMA1CT-ND"
+    },
+    "U_T_TLV3201AIDBVT": {
+        "Designator": "U?",
+        "Footprints": [
+            "SOT-23-5"
+        ],
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "TLV3201AIDBVT",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "296-30404-1-ND"
+    },
+    "U_T_XR22404CG28-F": {
+        "Designator": "U?",
+        "Footprints": [
+            "SSOP-28"
+        ],
+        "Manufacturer": "Exar",
+        "Manufacturer Part Number": "XR22404CG28TR-F",
+        "Supplier 1": "Mouser",
+        "Supplier Part Number 1": "701-XR22404CG28TR-F"
+    },
+    "U_UA78M33CDCYR": {
+        "Designator": "U?",
+        "Footprints": [
+            "SOT223"
+        ],
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "UA78M33CDCYR",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "296-13424-1-ND",
+        "Supplier Part Number 2": "595-UA78M33CDCYR",
+        "Supplier Part Number 3": "3122800"
+    },
+    "X_009175002702906": {
+        "Designator": "X?",
+        "Footprints": [
+            "00-9175-002-702-906"
+        ],
+        "Manufacturer": "Kyocera AVX",
+        "Manufacturer Part Number": "009175002702906",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "009175002702906-ND"
+    },
+    "X_009175003702906": {
+        "Designator": "X?",
+        "Footprints": [
+            "00-9175-003-702-906"
+        ],
+        "Manufacturer": "Kyocera AVX",
+        "Manufacturer Part Number": "009175003702906",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "009175003702906-ND"
+    },
+    "X_009175003702996": {},
+    "X_009176001853906": {
+        "Designator": "X?",
+        "Footprints": [
+            "00-9175-003-702-996"
+        ],
+        "Manufacturer": "Kyocera AVX",
+        "Manufacturer Part Number": "009175003702996",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "478-9530-1-ND"
+    },
+    "X_09-3391-81-04": {},
+    "X_0908": {
+        "Designator": "TP?",
+        "Footprints": [
+            "Mill-Max 0908"
+        ],
+        "Manufacturer": "Mill-Max",
+        "Manufacturer Part Number": "0908-9-15-20-75-14-11-0",
+        "Supplier 1": "Farnell",
+        "Supplier Part Number 1": "2751180"
+    },
+    "X_100616-1": {
+        "Designator": "U?",
+        "Footprints": [
+            "SOT-23-5"
+        ],
+        "Manufacturer": "Diodes",
+        "Manufacturer Part Number": "APX823-31W5G-7",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "APX823-31W5GDICT-ND",
+        "Supplier Part Number 2": "571-100616-1",
+        "Supplier Part Number 3": "2059749"
+    },
+    "X_10067847-001RLF": {
+        "Designator": "X?",
+        "Footprints": [
+            "10067847"
+        ],
+        "Manufacturer": "Amphenol FCI",
+        "Manufacturer Part Number": "10067847-001RLF",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "609-3956-1-ND",
+        "Supplier Part Number 2": "649-10067847-001RLF",
+        "Supplier Part Number 3": "2135990"
+    },
+    "X_1702473": {
+        "Designator": "X?",
+        "Footprints": [
+            "1702473"
+        ],
+        "Manufacturer": "Phoenix Contact",
+        "Manufacturer Part Number": "1702473",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "277-2337-1-ND"
+    },
+    "X_1707030": {
+        "Designator": "X?",
+        "Footprints": [
+            "P_GMKDSN 1,5/ 3-7,62_PHOENIX"
+        ],
+        "Manufacturer": "Phoenix Contact",
+        "Manufacturer Part Number": "1707030",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "277-13735-ND"
+    },
+    "X_1725672": {
+        "Designator": "X?",
+        "Footprints": [
+            "1725672"
+        ],
+        "Manufacturer": "Phoenix Contact",
+        "Manufacturer Part Number": "1725672",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "277-1275-ND"
+    },
+    "X_1824103": {
+        "Designator": "X?",
+        "Footprints": [
+            "1824103"
+        ],
+        "Manufacturer": "Phoenix Contact",
+        "Manufacturer Part Number": "1824103",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "277-11528-1-ND"
+    },
+    "X_1830101": {
+        "Designator": "X?",
+        "Footprints": [
+            "MCD 1,5/ 2-GF-3,81"
+        ],
+        "Manufacturer": "Phoenix Contact",
+        "Manufacturer Part Number": "1830101",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "277-14134-ND"
+    },
+    "X_1830127": {
+        "Designator": "X?",
+        "Footprints": [
+            "MCD 1,5/ 4-GF-3,81"
+        ],
+        "Manufacturer": "Phoenix Contact",
+        "Manufacturer Part Number": "1830127",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "1830127-ND"
+    },
+    "X_1843224": {},
+    "X_1843240": {
+        "Designator": "X?",
+        "Footprints": [
+            "MCV 1,5/ 2-GF-3,5"
+        ],
+        "Manufacturer": "Phoenix Contact",
+        "Manufacturer Part Number": "1843224",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "277-6083-ND",
+        "Supplier Part Number 2": "651-1843240",
+        "Supplier Part Number 3": "2776353"
+    },
+    "X_1843790": {
+        "Designator": "X?",
+        "Footprints": [
+            "MC 1,5/ 2-GF-3,5"
+        ],
+        "Manufacturer": "Phoenix Contact",
+        "Manufacturer Part Number": "1843790",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "277-5882-ND"
+    },
+    "X_1900073": {
+        "Designator": "X?",
+        "Footprints": [
+            "EMSTB 2,5/ 2-GF"
+        ],
+        "Manufacturer": "Phoenix Contact",
+        "Manufacturer Part Number": "1900073",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "277-14326-ND"
+    },
+    "X_1900086": {
+        "Designator": "X?",
+        "Footprints": [
+            "EMSTB 2,5/ 3-GF"
+        ],
+        "Manufacturer": "Phoenix Contact",
+        "Manufacturer Part Number": "1900086",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "1900086-ND"
+    },
+    "X_1900099": {
+        "Supplier 1": "Digi-Key"
+    },
+    "X_1984617": {
+        "Designator": "X?",
+        "Footprints": [
+            "EMSTB 2.5/4-GF"
+        ],
+        "Manufacturer": "Phoenix Contact",
+        "Manufacturer Part Number": "1900099",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "1900099-ND",
+        "Supplier Part Number 2": "651-1984617",
+        "Supplier Part Number 3": "2776442"
+    },
+    "X_1990973": {},
+    "X_1990986": {
+        "Designator": "X?",
+        "Footprints": [
+            "SPT 2,5/2-H-5,0"
+        ],
+        "Manufacturer": "Phoenix Contact",
+        "Manufacturer Part Number": "1990973",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "277-7665-ND",
+        "Supplier Part Number 2": "651-1990986",
+        "Supplier Part Number 3": "2928709"
+    },
+    "X_1990999": {
+        "Designator": "X?",
+        "Footprints": [
+            "SPT 2,5/4-H-5,0"
+        ],
+        "Manufacturer": "Phoenix Contact",
+        "Manufacturer Part Number": "1990999",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "277-9154-ND"
+    },
+    "X_1991095": {
+        "Designator": "X?",
+        "Footprints": [
+            "SPT 2,5/2-V-5,0"
+        ],
+        "Manufacturer": "Phoenix Contact",
+        "Manufacturer Part Number": "1991095",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "277-6267-ND"
+    },
+    "X_1991118": {},
+    "X_1991150": {
+        "Designator": "X?",
+        "Footprints": [
+            "SPT 2,5/4-V-5,0"
+        ],
+        "Manufacturer": "Phoenix Contact",
+        "Manufacturer Part Number": "1991118",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "277-6407-ND",
+        "Supplier Part Number 2": "651-1991150",
+        "Supplier Part Number 3": "2928722"
+    },
+    "X_20021111-00050T4LF": {
+        "Designator": "X?",
+        "Footprints": [
+            "20021111-00050T4LF"
+        ],
+        "Manufacturer": "Amphenol FCI",
+        "Manufacturer Part Number": "20021111-00050T4LF",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "609-3725-ND"
+    },
+    "X_236-407": {
+        "Designator": "X?",
+        "Footprints": [
+            "236-407"
+        ],
+        "Manufacturer": "WAGO",
+        "Manufacturer Part Number": "236-407",
+        "Supplier 1": "Future Electronics",
+        "Supplier Part Number 1": "236-407"
+    },
+    "X_236-410": {},
+    "X_3785A08.64": {},
+    "X_39-30-3047": {
+        "Designator": "X?",
+        "Footprints": [
+            "3785A08.64"
+        ],
+        "Manufacturer": "Vogt",
+        "Manufacturer Part Number": "3785A08.64",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Farnell",
+        "Supplier 3": "Mouser",
+        "Supplier Part Number 1": "300-73-096",
+        "Supplier Part Number 2": "2381276",
+        "Supplier Part Number 3": "538-39-30-3047"
+    },
+    "X_419-10-206-00-006000": {
+        "Designator": "X?",
+        "Footprints": [
+            "419-10-206-00-006000_EDGE"
+        ],
+        "Manufacturer": "Mill-Max",
+        "Manufacturer Part Number": "419-10-206-00-006000",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "ED1376-ND"
+    },
+    "X_53261-0771": {
+        "Designator": "X?",
+        "Footprints": [
+            "532610771"
+        ],
+        "Manufacturer": "Molex",
+        "Manufacturer Part Number": "53261-0771",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "WM7625CT-ND",
+        "Supplier Part Number 2": "538-53261-0771",
+        "Supplier Part Number 3": "1125361"
+    },
+    "X_62684-401100ALF": {
+        "Designator": "X?",
+        "Footprints": [
+            "4-1734592-0"
+        ],
+        "Manufacturer": "Amphenol FCI",
+        "Manufacturer Part Number": "62684-401100ALF",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Digi-Key",
+        "Supplier Part Number 1": "609-1195-1-ND",
+        "Supplier Part Number 2": "A100226CT-ND"
+    },
+    "X_73725-0110BLF": {
+        "Designator": "X?",
+        "Footprints": [
+            "09-3391-81-04"
+        ],
+        "Manufacturer": "Binder",
+        "Manufacturer Part Number": "09-3391-81-04",
+        "Supplier 1": "Distrelec",
+        "Supplier 2": "Farnell",
+        "Supplier Part Number 1": "144-18-076",
+        "Supplier Part Number 2": "2949955"
+    },
+    "X_75869-105LF": {
+        "Designator": "X?",
+        "Footprints": [
+            "HEADER26POL"
+        ],
+        "Manufacturer": "Amphenol FCI",
+        "Manufacturer Part Number": "75869-105LF",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Farnell",
+        "Supplier 3": "Mouser",
+        "Supplier Part Number 1": "609-1777-ND",
+        "Supplier Part Number 2": "1103953",
+        "Supplier Part Number 3": "649-75869-105LF"
+    },
+    "X_76382-403LF": {},
+    "X_76384-302LF": {
+        "Designator": "X?",
+        "Footprints": [
+            "76382-403LF"
+        ],
+        "Manufacturer": "Amphenol FCI",
+        "Manufacturer Part Number": "76382-403LF",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Mouser",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "609-1292-ND",
+        "Supplier Part Number 2": "649-76384-302LF",
+        "Supplier Part Number 3": "2135958"
+    },
+    "X_973582100": {
+        "Designator": "X?",
+        "Footprints": [
+            "PB 4"
+        ],
+        "Manufacturer": "SKS Hirschmann",
+        "Manufacturer Part Number": "973582100",
+        "Supplier 1": "Distrelec",
+        "Supplier 2": "RSComponents",
+        "Supplier Part Number 1": "140-53-104",
+        "Supplier Part Number 2": "738531"
+    },
+    "X_973582101": {
+        "Designator": "X?",
+        "Footprints": [
+            "PB 4 - red"
+        ],
+        "Manufacturer": "SKS Hirschmann",
+        "Manufacturer Part Number": "973582101",
+        "Supplier 1": "Distelec",
+        "Supplier 2": "RSComponents",
+        "Supplier Part Number 1": "140-53-120",
+        "Supplier Part Number 2": "738547"
+    },
+    "X_99-3390-282-04": {
+        "Designator": "X?",
+        "Footprints": [
+            "Binder 99 3390 282 04"
+        ],
+        "Manufacturer": "Binder",
+        "Manufacturer Part Number": "99-3390-282-04",
+        "Supplier 1": "Farnell",
+        "Supplier Part Number 1": "2950027"
+    },
+    "X_99-3391-282-04": {
+        "Designator": "X?",
+        "Footprints": [
+            "Binder 99 3391 282 04"
+        ],
+        "Manufacturer": "Binder",
+        "Manufacturer Part Number": "99-3391-282-04",
+        "Supplier 1": "Farnell",
+        "Supplier Part Number 1": "2950028"
+    },
+    "X_99-3412-282-03": {
+        "Designator": "X?",
+        "Footprints": [
+            "Binder 99 3412 282 03"
+        ],
+        "Manufacturer": "Binder",
+        "Manufacturer Part Number": "99-3412-282-03",
+        "Supplier 1": "Distrelec",
+        "Supplier Part Number 1": "144-75-364"
+    },
+    "X_99-3732-202-04": {
+        "Designator": "X?",
+        "Footprints": [
+            "Binder 99 3732 202 04"
+        ],
+        "Manufacturer": "Binder",
+        "Manufacturer Part Number": "99-3732-202-04",
+        "Supplier 1": "Farnell",
+        "Supplier Part Number 1": "2950036"
+    },
+    "X_Connector 10Pin": {
+        "Designator": "X?",
+        "Footprints": [
+            "Pin Header 2x5 TH Pitch 2.54mm"
+        ]
+    },
+    "X_Connector 11Pin": {
+        "Designator": "X?",
+        "Footprints": [
+            "Pin Header 1x11 TH Pitch 2.54mm F"
+        ]
+    },
+    "X_Connector 12Pin": {
+        "Designator": "X?",
+        "Footprints": [
+            "Pin Header 1x12 TH Pitch 2.54mm f"
+        ]
+    },
+    "X_Connector 14Pin": {
+        "Designator": "X?",
+        "Footprints": [
+            "Pin Header 2x7 TH Pitch 2.54mm F RR"
+        ]
+    },
+    "X_Connector 16Pin": {
+        "Designator": "X?",
+        "Footprints": [
+            "Pin Header 2x8 TH Pitch 2.54mm shl"
+        ]
+    },
+    "X_Connector 1Pin": {
+        "Designator": "X?",
+        "Footprints": [
+            "Solderpads_3x7"
+        ]
+    },
+    "X_Connector 20Pin": {},
+    "X_Connector 2Pin": {
+        "Designator": "X?",
+        "Footprints": [
+            "Pin Header 1x2 TH Pitch 2.54mm f"
+        ]
+    },
+    "X_Connector 2x20Pin": {},
+    "X_Connector 2x25Pin": {
+        "Designator": "X?",
+        "Footprints": [
+            "Pin Header 2x20 TH Pitch 2.54mm - sh"
+        ]
+    },
+    "X_Connector 2x40 Pin": {
+        "Designator": "X?",
+        "Footprints": [
+            "Pin Header 2x40 TH Pitch 2.54mm RR"
+        ]
+    },
+    "X_Connector 3Pin": {
+        "Designator": "X?",
+        "Footprints": [
+            "Pin Header 1x3 TH Pitch 2.54mm f"
+        ]
+    },
+    "X_Connector 4Pin": {
+        "Designator": "X?",
+        "Footprints": [
+            "Pin Header 1x4 TH Pitch 2.54mm f"
+        ]
+    },
+    "X_Connector 5Pin": {
+        "Designator": "X?",
+        "Footprints": [
+            "circular pcb connector"
+        ]
+    },
+    "X_Connector 6Pin": {
+        "Designator": "X?",
+        "Footprints": [
+            "castellated hole 6in"
+        ]
+    },
+    "X_Connector 7Pin": {
+        "Designator": "X?",
+        "Footprints": [
+            "Pin Header 1x7 TH Pitch 2.54mm f"
+        ]
+    },
+    "X_Connector 8Pin": {
+        "Designator": "X?",
+        "Footprints": [
+            "Pin Header 1x8 TH Pitch 2.54mm f"
+        ]
+    },
+    "X_Connector 9Pin": {},
+    "X_Connector FTDI cable": {
+        "Designator": "X?",
+        "Footprints": [
+            "Pin Header 1x6 TH Pitch 2.54mm"
+        ]
+    },
+    "X_DD22": {
+        "Designator": "X?",
+        "Footprints": [
+            "Schurter D22"
+        ],
+        "Manufacturer": "Schurter",
+        "Manufacturer Part Number": "DD22.9121.1111",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "486-1324-ND"
+    },
+    "X_DIP_14": {
+        "Designator": "X?",
+        "Footprints": [
+            "DIL-14"
+        ],
+        "Manufacturer": "Amphenol ICC / FCI",
+        "Manufacturer Part Number": "DILB14P-223TLF",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Farnell",
+        "Supplier 3": "Farnell",
+        "Supplier Part Number 1": "609-4712-ND",
+        "Supplier Part Number 2": "2668404",
+        "Supplier Part Number 3": "1824462"
+    },
+    "X_DTS25W3 SYC/2M46M3": {},
+    "X_DTS25W3SY/2M85M3": {
+        "Designator": "X?",
+        "Footprints": [
+            "DTS25W3SY"
+        ],
+        "Manufacturer": "Deltron",
+        "Manufacturer Part Number": "DTS25W3 SYC/2M46M3",
+        "Supplier 1": "Safematic",
+        "Supplier 2": "Deltron",
+        "Supplier Part Number 1": "*"
+    },
+    "X_DTS25W3SY/2M85UN": {},
+    "X_Dubox 2 Pol Horizontal": {
+        "Designator": "D?",
+        "Footprints": [
+            "SST-x0"
+        ],
+        "Manufacturer": "Amphenol FCI",
+        "Manufacturer Part Number": "76382-302LF",
+        "Supplier 1": "Farnell",
+        "Supplier 2": "Digi-Key",
+        "Supplier 3": "Mouser",
+        "Supplier Part Number 1": "2490643",
+        "Supplier Part Number 2": "609-1278-ND",
+        "Supplier Part Number 3": "649-76382-302LF"
+    },
+    "X_FLE-125-01-G": {
+        "Designator": "X?",
+        "Footprints": [
+            "FLE-125-01-G-DV-A"
+        ],
+        "Manufacturer": "Samtec",
+        "Manufacturer Part Number": "FLE-125-01",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "SAM9410-ND"
+    },
+    "X_Glyn_Interface": {
+        "Designator": "X?",
+        "Footprints": [
+            "Pin Header 1x9 TH Pitch 2.54mm f"
+        ],
+        "Manufacturer": "Amphenol FCI",
+        "Manufacturer Part Number": "62684-401100ALF",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Digi-Key",
+        "Supplier Part Number 1": "609-1195-1-ND",
+        "Supplier Part Number 2": "A100226CT-ND"
+    },
+    "X_IDC0.3/2-3.81": {
+        "Designator": "X?",
+        "Footprints": [
+            "IDC 0,3/ 2-3,81"
+        ],
+        "Manufacturer": "Phoenix Contact",
+        "Manufacturer Part Number": "IDC0.3/2-3.81",
+        "Supplier 1": "Farnell",
+        "Supplier Part Number 1": "2927588"
+    },
+    "X_M50-3602542": {
+        "Designator": "X?",
+        "Footprints": [
+            "Pin Header 2x25 TH Pitch 1.27mm"
+        ],
+        "Manufacturer": "Harwin",
+        "Manufacturer Part Number": "M50-3602542",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "952-1394-ND"
+    },
+    "X_MSB12005": {},
+    "X_N2526-5002RB": {
+        "Designator": "X?",
+        "Footprints": [
+            "HEADER26POL_ABGEWINKELT"
+        ],
+        "Manufacturer": "3M",
+        "Manufacturer Part Number": "N2526-5002RB",
+        "Supplier 1": "Farnell",
+        "Supplier Part Number 1": "9838392"
+    },
+    "X_RB1-125BAG1A": {
+        "Designator": "X?",
+        "Footprints": [
+            "RB1-125BAG1A"
+        ],
+        "Manufacturer": "WIZnet",
+        "Manufacturer Part Number": "RB1-125BAG1A",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "1278-1011-ND"
+    },
+    "X_RJHSE5E80": {
+        "Designator": "X?",
+        "Footprints": [
+            "RJ45"
+        ],
+        "Manufacturer": "Amphenol Commercial",
+        "Manufacturer Part Number": "RJHSE5E80",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "RJHSE5E80-ND"
+    },
+    "X_S890-22-206-75-770000": {
+        "Designator": "X?",
+        "Footprints": [
+            "S890-22-206-75-770000_edge"
+        ],
+        "Manufacturer": "Mill-Max",
+        "Manufacturer Part Number": "S890-22-206-75-770000"
+    },
+    "X_SI-46014-F": {
+        "Designator": "X?",
+        "Footprints": [
+            "SI-46001-F"
+        ],
+        "Manufacturer": "Bel",
+        "Manufacturer Part Number": "SI-46014-F",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Farnell",
+        "Supplier Part Number 1": "380-1198-ND",
+        "Supplier Part Number 2": "3107025"
+    },
+    "X_Segger JLINK 10 Pin Needle Adapter": {
+        "Designator": "X?",
+        "Footprints": [
+            "TC2050-IDC-FP dual"
+        ]
+    },
+    "X_TC2030": {},
+    "X_TC2050-IDC-FP": {
+        "Designator": "tc?",
+        "Footprints": [
+            "TC2050-IDC-FP"
+        ]
+    },
+    "X_UE27-AC54-100": {},
+    "X_UE27-AE54-100": {
+        "Designator": "X?",
+        "Footprints": [
+            "UE27AC54100"
+        ],
+        "Manufacturer": "Amphenol Commercial",
+        "Manufacturer Part Number": "UE27-AC54-100",
+        "Supplier 1": "Digi-Key",
+        "Supplier 2": "Digi-Key",
+        "Supplier 3": "Digi-Key",
+        "Supplier Part Number 1": "UE27AC54100-ND",
+        "Supplier Part Number 2": "A121571-ND",
+        "Supplier Part Number 3": "1175-1265-ND"
+    },
+    "X_UE27-BC54-130": {},
+    "X_UJ2-BV-1-TH": {
+        "Designator": "X?",
+        "Footprints": [
+            "UJ2-BV-1-TH"
+        ],
+        "Manufacturer": "CUI",
+        "Manufacturer Part Number": "UJ2-BV-1-TH",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "102-4000-ND"
+    },
+    "X_UJ2-MABH-1-SMT": {
+        "Designator": "X?",
+        "Footprints": [
+            "UJ2-MABH-SMT"
+        ],
+        "Manufacturer": "CUI",
+        "Manufacturer Part Number": "UJ2-MABH-1-SMT",
+        "Supplier 1": "Digi-Key",
+        "Supplier Part Number 1": "102-4004-2-ND"
+    },
+    "X_WE-68X1061XXX22-6": {
+        "Designator": "X?",
+        "Footprints": [
+            "68610614422"
+        ],
+        "Manufacturer": "Wurth Elektronik",
+        "Manufacturer Part Number": "68610614422",
+        "Supplier 1": "Farnell",
+        "Supplier 2": "Digi-Key",
+        "Supplier 3": "Mouser",
+        "Supplier Part Number 1": "1641896",
+        "Supplier Part Number 2": "732-1994-1-ND",
+        "Supplier Part Number 3": "710-68610614422"
+    }
+}
