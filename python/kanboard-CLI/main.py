@@ -9,7 +9,4 @@ kb = kanboard.Client('http://localhost/jsonrpc.php', 'admin',
 if __name__ == "__main__":
 
     with open("tasks.pdf", "wb") as pdf:
-        pdf.write(tasks.tasks(kb))
-
-    with open("test.pdf", "wb") as pdf:
-        pdf.write(tasks.table_test())
+        pdf.write(tasks.tasks_report(kb))
