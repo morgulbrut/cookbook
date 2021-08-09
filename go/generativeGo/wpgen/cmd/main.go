@@ -11,19 +11,16 @@ import (
 	"net/http"
 	"os"
 	"path/filepath"
-	"runtime/pprof"
 	"time"
 
 	"github.com/morgulbrut/color256"
 	"github.com/morgulbrut/generativego/sketch"
 )
 
-// imports
-
 func main() {
 
 	var (
-		sourceImg       string // "source2.jpg"
+		sourceImg       string
 		totalCycleCount int
 		params          sketch.UserParams
 	)
@@ -66,7 +63,7 @@ func main() {
 	}
 
 	fn := tempFileName(params.Shape+"_", ".png")
-	color256.PrintHiCyan("Writing %s", fn)
+	color256.PrintHiCyan("\nWriting %s", fn)
 	saveOutput(s.Output(), fn)
 }
 
@@ -74,23 +71,6 @@ func tempFileName(prefix, suffix string) string {
 	randBytes := make([]byte, 8)
 	rand.Read(randBytes)
 	return filepath.Join(prefix + hex.EncodeToString(randBytes) + suffix)
-}
-
-func cpuProf(fn func()) {
-	f, er := os.Create("cpuprof.out")
-	if er != nil {
-		color256.PrintHiRed("Error in creating file for writing cpu profile: ", er)
-		return
-	}
-	defer f.Close()
-
-	if e := pprof.StartCPUProfile(f); e != nil {
-		color256.PrintHiRed("Error in starting CPU profile: ", e)
-		return
-	}
-
-	fn()
-	defer pprof.StopCPUProfile()
 }
 
 func loadRandomUnsplashImage(width, height int) (image.Image, error) {
