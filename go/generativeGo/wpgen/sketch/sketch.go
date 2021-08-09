@@ -22,6 +22,8 @@ type UserParams struct {
 	MaxEdgeCount             int
 	RotationJitter           float64
 	Shape                    string
+	Fill                     bool
+	Stroke                   bool
 }
 
 type Sketch struct {
@@ -78,14 +80,20 @@ func (s *Sketch) Update() {
 		s.dc.DrawRegularPolygon(edges, destX, destY, s.strokeSize, rand.Float64()*s.RotationJitter)
 	}
 
-	s.dc.FillPreserve()
+	if !s.Fill {
+		s.dc.FillPreserve()
+	}
 
-	if s.strokeSize <= s.StrokeInversionThreshold*s.initialStrokeSize {
-		if (r+g+b)/3 < 128 {
-			s.dc.SetRGBA255(255, 255, 255, int(s.InitialAlpha*2))
-		} else {
-			s.dc.SetRGBA255(0, 0, 0, int(s.InitialAlpha*2))
+	if !s.Stroke {
+		if s.strokeSize <= s.StrokeInversionThreshold*s.initialStrokeSize {
+			if (r+g+b)/3 < 128 {
+				s.dc.SetRGBA255(255, 255, 255, int(s.InitialAlpha*2))
+			} else {
+				s.dc.SetRGBA255(0, 0, 0, int(s.InitialAlpha*2))
+			}
 		}
+	} else {
+		s.dc.SetRGBA255(0, 0, 0, 0)
 	}
 	s.dc.Stroke()
 

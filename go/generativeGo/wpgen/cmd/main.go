@@ -41,6 +41,8 @@ func main() {
 	flag.IntVar(&params.MaxEdgeCount, "max", 8, "Maximal edge count for the polygons")
 	flag.Float64Var(&params.RotationJitter, "r", 0.5, "Rotation jitter")
 	flag.StringVar(&params.Shape, "s", "polygon", "Shape of the elements, can be circle, square, hexagon roundedsquare or polygon")
+	flag.BoolVar(&params.Fill, "nofill", false, "Don't fill the elements")
+	flag.BoolVar(&params.Stroke, "nostroke", false, "Don't draw strokes around the elements")
 
 	flag.Parse()
 	var err error
