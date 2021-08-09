@@ -54,16 +54,24 @@ func NewSketch(source image.Image, userParams UserParams) *Sketch {
 }
 
 func (s *Sketch) Update() {
+
+	// fmt.Print(".") // uncomment for some simple update bar
+
+	// Step 1
+	// choose random point on the source image and get the colour of that point
 	rndX := rand.Float64() * float64(s.sourceWidth)
 	rndY := rand.Float64() * float64(s.sourceHeight)
 	r, g, b := rgb255(s.source.At(int(rndX), int(rndY)))
 
+	// Step 2
+	// set the coordinates of the shape to draw to more or less those from Step 1
 	destX := rndX * float64(s.DestWidth) / float64(s.sourceWidth)
 	destX += float64(randRange(s.StrokeJitter))
 	destY := rndY * float64(s.DestHeight) / float64(s.sourceHeight)
 	destY += float64(randRange(s.StrokeJitter))
 
-	s.dc.SetRGBA255(r, g, b, int(s.InitialAlpha))
+	// Step 3
+	// Draw the shape
 	switch strings.ToLower(s.Shape) {
 	case "circle":
 		s.dc.DrawCircle(destX, destY, s.strokeSize)
@@ -80,10 +88,18 @@ func (s *Sketch) Update() {
 		s.dc.DrawRegularPolygon(edges, destX, destY, s.strokeSize, rand.Float64()*s.RotationJitter)
 	}
 
+	// Step 4
+	// fill the shape with the chosen colour if -nofill isn't set
 	if !s.Fill {
+		// set the drawing colour to the one from Step 1
+		s.dc.SetRGBA255(r, g, b, int(s.InitialAlpha))
+		// fill the shape
 		s.dc.FillPreserve()
 	}
 
+	// Step 5
+	// draw the outline
+	// if -nostroke isn't set choose black or white depending on the colour from Step 1
 	if !s.Stroke {
 		if s.strokeSize <= s.StrokeInversionThreshold*s.initialStrokeSize {
 			if (r+g+b)/3 < 128 {
@@ -92,11 +108,16 @@ func (s *Sketch) Update() {
 				s.dc.SetRGBA255(0, 0, 0, int(s.InitialAlpha*2))
 			}
 		}
+		// if -nostroke is set, set the colour to alpha 0
+		// (just not calling s.dc.Stroke() makes the program slow as hell)
 	} else {
 		s.dc.SetRGBA255(0, 0, 0, 0)
 	}
+	// finally draw the outline
 	s.dc.Stroke()
 
+	// Step 6
+	// adapt the strokesize and alpha for the next run
 	s.strokeSize -= s.StrokeReduction * s.strokeSize
 	s.InitialAlpha += s.AlphaIncrease
 }
