@@ -38,6 +38,12 @@ class dashboard():
             self.text_colour = colors.black
         self.canvas = canvas.Canvas(
             self.vehicle.name+".pdf", pagesize=landscape(A5))
+        w = self.canvas._pagesize[0]
+        h = self.canvas._pagesize[1]
+        self.canvas.setFillColor(self.text_colour)
+        self.canvas.rect(0, 0, w, h)
+        self.canvas.setFillColor(self.title_colour)
+        self.canvas.rect(10, 10, w-20, h-20)
 
     def titleblock(self, x, y):
         textobject = self.canvas.beginText()

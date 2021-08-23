@@ -11,3 +11,4 @@ go/kanboardCli/cmd/secrets.go
 go/generativeGo/wpgen/Outputs/
 python/kanboard-CLI/tasks.pdf
 go/generativeGo/generative-art-in-go.pdf
+python/dashboard_gen/*.pdf
