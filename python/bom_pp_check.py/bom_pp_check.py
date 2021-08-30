@@ -1,6 +1,4 @@
 import pandas as pd
-from pandas import ExcelWriter
-from pandas import ExcelFile
 import argparse
 from colorama import Fore, init
 from pprint import pprint
